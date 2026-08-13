@@ -1,0 +1,1276 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwt-gradle-plugin",
+          "description": "Gradle plugin for GWT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-16T05:15:51Z",
+            "owner": "jiakuan",
+            "repo": "gwt-gradle-plugin",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-gradle-plugin",
+          "description": "Gradle plugin for GWT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-12T15:09:38Z",
+            "owner": "esoco",
+            "repo": "gwt-gradle-plugin",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-gradle",
+          "description": "Gradle plugin for GWT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2026-07-16T19:09:38Z",
+            "owner": "ascendtech",
+            "repo": "gwt-gradle",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Gradle Plugin"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwt-maven-archetypes",
+          "description": "GWT Maven Archetype :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T00:23:41Z",
+            "owner": "tbroyer",
+            "repo": "gwt-maven-archetypes",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-boot-modules",
+          "description": "GWT Boot similar to Spring Boot makes your GWT application development easy to start with :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-22T15:31:58Z",
+            "owner": "gwtboot",
+            "repo": "gwt-boot-modules",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-maven-springboot-archetype",
+          "description": "GWT Maven Spring Boot Archetype :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-09T09:05:14Z",
+            "owner": "NaluKit",
+            "repo": "gwt-maven-springboot-archetype",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-boot-maven-archetype",
+          "description": "Maven Archetype for GWT Boot projects :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-11-01T13:27:06Z",
+            "owner": "gwtboot",
+            "repo": "gwt-boot-maven-archetypes",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Starter"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crysknife",
+          "description": "sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T23:08:49Z",
+            "owner": "crysknife-io",
+            "repo": "crysknife",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google-gin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-01-20T14:46:47Z",
+            "owner": "gwtplus",
+            "repo": "google-gin",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Dependency Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "elemental2",
+          "description": "Web APIs based on web api :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T23:30:31Z",
+            "owner": "google",
+            "repo": "elemental2",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elemento",
+          "description": "Web APIs based on elemental2 :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T19:33:44Z",
+            "owner": "hal",
+            "repo": "elemento",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "akasha",
+          "description": "Web APIs based on WebTack akasha-webtack :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-30T03:47:31Z",
+            "owner": "akasha",
+            "repo": "akasha",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Web APIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwt-material",
+          "description": "UI framework based on material design :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-20T22:14:37Z",
+            "owner": "GwtMaterialDesign",
+            "repo": "gwt-material",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webfx",
+          "description": "UI framework based on JavaFX :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-12T18:58:24Z",
+            "owner": "webfx-project",
+            "repo": "webfx",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwtbootstrap3",
+          "description": "UI framework based on bootstrap",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-11-14T17:21:37Z",
+            "owner": "gwtbootstrap3",
+            "repo": "gwtbootstrap3",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "errai",
+          "description": "UI framework based on JavaEE :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-08T03:32:32Z",
+            "owner": "errai",
+            "repo": "errai",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "domino-ui",
+          "description": "UI framework based on material design :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-29T10:32:01Z",
+            "owner": "DominoKit",
+            "repo": "domino-ui",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-gwt",
+          "description": "UI framework based on vuejs :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-01-07T16:11:55Z",
+            "owner": "VueGWT",
+            "repo": "vue-gwt",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-react",
+          "description": "UI framework based on react",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-05-02T18:35:09Z",
+            "owner": "GWTReact",
+            "repo": "gwt-react",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-gwt",
+          "description": "UI framework based on angular",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-09-27T13:00:17Z",
+            "owner": "ltearno",
+            "repo": "angular2-gwt",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "patternfly-java",
+          "description": "UI framework based on patternfly :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T01:04:26Z",
+            "owner": "patternfly-java",
+            "repo": "patternfly-java",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwtbootstrap3",
+          "description": "UI framework based on bootstrap :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-03-31T04:33:55Z",
+            "owner": "treblereel",
+            "repo": "gwtbootstrap3",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-theo",
+          "description": "UI framework based on Salesforce theo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-11T03:46:16Z",
+            "owner": "ArcBees",
+            "repo": "gwt-theo",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "html-ui-binder",
+          "description": "UI framework for UI Binder but with HTML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-08-17T19:45:29Z",
+            "owner": "RaHery",
+            "repo": "html-ui-binder",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-fusion-ui",
+          "description": "GWT UI components with Tailwind DNA :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-01T16:00:14Z",
+            "owner": "gwt-fusion",
+            "repo": "gwt-fusion-ui",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwtbootstrap5",
+          "description": "UI framework based on latest bootstrap 5 :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-11T09:55:33Z",
+            "owner": "themarioga",
+            "repo": "gwtbootstrap5",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sayaya ui",
+          "description": "UI framework based on Material Web Components :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-15T00:03:47Z",
+            "owner": "sayaya1090",
+            "repo": "sayaya-ui",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react4j",
+          "description": "UI framework based on react :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-13T12:23:14Z",
+            "owner": "react4j",
+            "repo": "react4j.github.io",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "UI Framework"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nalu",
+          "description": "Routing based application framework for GWT & J2CL :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T11:26:50Z",
+            "owner": "NaluKit",
+            "repo": "nalu",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mvp4g2",
+          "description": ":sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-06-17T09:04:47Z",
+            "owner": "mvp4g",
+            "repo": "mvp4g2",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "router-fu",
+          "description": "A framework agnostic, state producing router :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-07T06:19:06Z",
+            "owner": "realityforge",
+            "repo": "router-fu",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Router"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwtmockito",
+          "description": "Test Mockito for GWT :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-02-06T19:38:15Z",
+            "owner": "google",
+            "repo": "gwtmockito",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-symbolmap",
+          "description": "SymbolMap Support Library :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-12T02:19:44Z",
+            "owner": "realityforge",
+            "repo": "gwt-symbolmap",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grim",
+          "description": "Assert unexpected symbols are eliminated from output :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-07T06:19:06Z",
+            "owner": "realityforge",
+            "repo": "grim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "resty-gwt",
+          "description": "REST framework :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-01-02T21:51:09Z",
+            "owner": "resty-gwt",
+            "repo": "resty-gwt",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "requestor",
+          "description": "HTTP Event-Driven Client API framework :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-03T04:13:01Z",
+            "owner": "reinert",
+            "repo": "requestor",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "domino-rest",
+          "description": "REST framework :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-31T14:45:30Z",
+            "owner": "DominoKit",
+            "repo": "domino-rest",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resty-gwt",
+          "description": "REST framework based on jakarta classes :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T20:38:02Z",
+            "owner": "NewsRx",
+            "repo": "resty-gwt",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "HTTP and REST Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwt-jackson",
+          "description": "Jackson library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-03-15T01:27:18Z",
+            "owner": "nmorel",
+            "repo": "gwt-jackson",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "domino-jackson",
+          "description": "Jackson library :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-27T19:56:52Z",
+            "owner": "DominoKit",
+            "repo": "domino-jackson",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jackson-xml",
+          "description": "Jackson library :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-11T21:07:44Z",
+            "owner": "treblereel",
+            "repo": "mapper-xml",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Jackson Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwt-maps",
+          "description": "Maps library based on google maps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-13T06:40:27Z",
+            "owner": "branflake2267",
+            "repo": "GWT-Maps-V3-Api",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-ol",
+          "description": "Maps library based on openlayers :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-06T17:32:49Z",
+            "owner": "TDesjardins",
+            "repo": "gwt-ol",
+            "stars": 75
+          }
+        }
+      ],
+      "title": "Maps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "d3js",
+          "description": "Chart library based on gwt-d3",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-12-26T18:31:00Z",
+            "owner": "gwtd3",
+            "repo": "gwt-d3",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "charba",
+          "description": "Chart library based on chart.js :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-10T11:47:47Z",
+            "owner": "pepstock-org",
+            "repo": "Charba",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-highcharts",
+          "description": "Chart library based on highchart.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-05-16T15:10:20Z",
+            "owner": "ascendtech",
+            "repo": "gwt-highcharts",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-chartjs",
+          "description": "Chart library based on chart.js",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2017-01-11T19:57:25Z",
+            "owner": "sidney3172",
+            "repo": "gwt-chartjs",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Diagrams"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lienzo-core",
+          "description": "Graphics library for GWT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-22T05:53:54Z",
+            "owner": "dikalo",
+            "repo": "lienzo-core",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lib-gwt-svg",
+          "description": "SVG library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-04-03T07:14:24Z",
+            "owner": "laaglu",
+            "repo": "lib-gwt-svg",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-snapsvg",
+          "description": "SVG library based on snap.svg",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-05-21T15:05:51Z",
+            "owner": "ArcBees",
+            "repo": "gwt-snapsvg",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwt.threejs",
+          "description": "3D library based on three.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:46:14Z",
+            "owner": "mrdoob",
+            "repo": "three.js",
+            "stars": 114476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "three4g",
+          "description": "3D library based on three.js :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-11T18:54:11Z",
+            "owner": "treblereel",
+            "repo": "three4g",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "3D Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vecmath",
+          "description": "A vector math library optimized for GWT/J2CL :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-07-26T02:52:58Z",
+            "owner": "realityforge",
+            "repo": "vecmath",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-bigmath",
+          "description": "A big math library :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-19T09:37:27Z",
+            "owner": "treblereel",
+            "repo": "gwt-bigmath",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Math Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwt-qr-code",
+          "description": "GWT QR Code Generation",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-03-10T00:28:42Z",
+            "owner": "realityforge",
+            "repo": "gwt-qr-code",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-qr-scanner",
+          "description": "QR scanner based on nimiq.qr-scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-17T20:04:10Z",
+            "owner": "masterdany88",
+            "repo": "gwt-qr-scanner",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "QR Scanner"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwt-stripe",
+          "description": "Payment library for Stripe JS based on stripe js sdk",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-02-17T14:27:28Z",
+            "owner": "ArcBees",
+            "repo": "gwt-stripe",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paypalwithgwt",
+          "description": "Payment library for Paypal JS based on paypal checkout js sdk",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-08-08T09:07:17Z",
+            "owner": "schube",
+            "repo": "paypalwithgwt",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Payment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwtwwlinker",
+          "description": "Web worker lib",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-05-13T12:35:19Z",
+            "owner": "tomekziel",
+            "repo": "gwtwwlinker",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-worker",
+          "description": "Web worker lib",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-03-22T09:59:09Z",
+            "owner": "gwtplus",
+            "repo": "gwt-worker",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-serviceworker-linker",
+          "description": "A GWT linker that generates a serviceworker :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-07-26T02:53:55Z",
+            "owner": "realityforge",
+            "repo": "gwt-serviceworker-linker",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Web Worker"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "webbit-gwt",
+          "description": "Web sockets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-31T15:09:47Z",
+            "owner": "niloc132",
+            "repo": "webbit-gwt",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-socket.io",
+          "description": "Socket IO library based on socket-io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-10-26T19:44:42Z",
+            "owner": "jumanor",
+            "repo": "gwt_socket.io",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Web Sockets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwt-completablefuture",
+          "description": "Completable future library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-12-10T22:03:37Z",
+            "owner": "OneGeek",
+            "repo": "GWT-CompletableFuture",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdeferred",
+          "description": "Promise library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-13T00:21:48Z",
+            "owner": "reinert",
+            "repo": "gdeferred",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-promises",
+          "description": "Promise library based on promise.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-07-11T02:23:08Z",
+            "owner": "jimmyfm",
+            "repo": "gwt-promises",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Promise and Future Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rxjava-gwt",
+          "description": "Reactive library :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-04-17T20:22:02Z",
+            "owner": "intendia-oss",
+            "repo": "rxjava-gwt",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rxgwt",
+          "description": "Reactive library :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-04-17T20:33:56Z",
+            "owner": "intendia-oss",
+            "repo": "rxgwt",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sayaya rx",
+          "description": "RxJS binding library :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-22T18:18:27Z",
+            "owner": "sayaya1090",
+            "repo": "sayaya-rx",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Reactive Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwtquery",
+          "description": "JQuery based on GWT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-01-27T08:05:30Z",
+            "owner": "ArcBees",
+            "repo": "gwtquery",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jqm4gwt",
+          "description": "JQuery mobile based on jquery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-17T00:05:57Z",
+            "owner": "jqm4gwt",
+            "repo": "jqm4gwt",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "JQuery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwtmap",
+          "description": "Tool for attacking surface of GWT based applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-14T12:23:05Z",
+            "owner": "ReversecLabs",
+            "repo": "GWTMap",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gwt-keycloak",
+          "description": "A keycloak authentication adapter based on keycloak.js",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-07-26T02:53:47Z",
+            "owner": "realityforge",
+            "repo": "gwt-keycloak",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Auth and Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gwt-goodies",
+          "description": "Collection of JS utility / small libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-02-01T06:46:58Z",
+            "owner": "peruncs",
+            "repo": "gwt",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "org.jetbrains.annotations",
+          "description": "A GWT/J2CL compatible org.jetbrains.annotations library :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-12T02:19:04Z",
+            "owner": "realityforge",
+            "repo": "org.jetbrains.annotations",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "javax.annotation",
+          "description": "A J2CL compatible javax.annotation library :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-12T02:18:57Z",
+            "owner": "realityforge",
+            "repo": "javax.annotation",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "braincheck",
+          "description": "A GWT/J2CL invariant checking toolkit that is optimized out in production builds :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-20T12:27:16Z",
+            "owner": "realityforge",
+            "repo": "braincheck",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Miscellaneous Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jsinterop-generator",
+          "description": "Generator to generate JsInterop files from Closure Extern files :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-08T01:16:38Z",
+            "owner": "google",
+            "repo": "jsinterop-generator",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "akasha-webtack",
+          "description": "Generator to generate JsInterop files from Web APIs specification WebIDL :sparkling_heart:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-30T03:47:31Z",
+            "owner": "akasha",
+            "repo": "akasha",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typescript2java",
+          "description": "Generator to generate JsInterop files from TypeScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-17T08:00:45Z",
+            "owner": "ltearno",
+            "repo": "typescript2java",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "JsInterop Generator"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:23.953Z",
+    "original_repository": "gwtboot/gwt-boot-awesome-lili",
+    "original_repository_sha": "4008ee3f22b96b47011d9a1576d3d3eecfb69125",
+    "enhanced_repository": "enhansome/gwt-boot-enhansome-lili",
+    "enhanced_repository_description": null,
+    "title": "GWT Awesome Library List (Gwit a LiLi) with stars"
+  }
+}
