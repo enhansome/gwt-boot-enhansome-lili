@@ -169,7 +169,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T11:41:23Z",
+            "last_commit": "2026-08-18T00:58:20Z",
             "owner": "hal",
             "repo": "elemento",
             "stars": 99
@@ -315,7 +315,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T11:41:45Z",
+            "last_commit": "2026-08-17T11:52:05Z",
             "owner": "patternfly-java",
             "repo": "patternfly-java",
             "stars": 34
@@ -571,7 +571,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T02:11:39Z",
+            "last_commit": "2026-08-18T02:38:05Z",
             "owner": "NewsRx",
             "repo": "resty-gwt",
             "stars": 1
@@ -783,10 +783,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T21:51:40Z",
+            "last_commit": "2026-08-17T20:52:20Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 114563
+            "stars": 114579
           }
         },
         {
@@ -1266,7 +1266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:50:03.300Z",
+    "last_updated": "2026-08-18T02:45:24.720Z",
     "original_repository": "gwtboot/gwt-boot-awesome-lili",
     "original_repository_sha": "4008ee3f22b96b47011d9a1576d3d3eecfb69125",
     "enhanced_repository": "enhansome/gwt-boot-enhansome-lili",
