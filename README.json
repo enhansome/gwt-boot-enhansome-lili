@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 39412278,
                 "language": "Java",
-                "last_commit": "2026-08-22T00:59:19Z",
+                "last_commit": "2026-08-24T01:01:54Z",
                 "owner": "hal",
                 "repo": "elemento",
                 "stars": 99
@@ -240,7 +240,7 @@
                 "last_commit": "2026-05-12T18:58:24Z",
                 "owner": "webfx-project",
                 "repo": "webfx",
-                "stars": 401
+                "stars": 402
               }
             },
             {
@@ -342,7 +342,7 @@
                 "archived": false,
                 "id": 223204805,
                 "language": "Java",
-                "last_commit": "2026-08-22T00:39:09Z",
+                "last_commit": "2026-08-24T00:40:25Z",
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
                 "stars": 34
@@ -848,10 +848,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T13:52:17Z",
+                "last_commit": "2026-08-23T17:39:40Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114693
+                "stars": 114725
               }
             },
             {
@@ -1376,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:52:24.592Z",
+    "last_updated": "2026-08-24T02:53:19.046Z",
     "original_repository": "gwtboot/gwt-boot-awesome-lili",
     "original_repository_id": 300066130,
     "original_repository_sha": "4008ee3f22b96b47011d9a1576d3d3eecfb69125",
