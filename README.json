@@ -342,7 +342,7 @@
                 "archived": false,
                 "id": 223204805,
                 "language": "Java",
-                "last_commit": "2026-08-24T00:40:25Z",
+                "last_commit": "2026-08-25T06:05:06Z",
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
                 "stars": 34
@@ -983,7 +983,7 @@
                 "last_commit": "2026-08-25T02:07:23Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114760
+                "stars": 114766
               }
             },
             {
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:48:42.817Z",
+    "last_updated": "2026-08-25T06:41:42.047Z",
     "original_repository": "gwtboot/gwt-boot-awesome-lili",
     "original_repository_id": 300066130,
     "original_repository_sha": "4008ee3f22b96b47011d9a1576d3d3eecfb69125",
