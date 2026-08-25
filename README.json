@@ -640,7 +640,7 @@
                 "archived": false,
                 "id": 1095080713,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:50:35Z",
+                "last_commit": "2026-08-25T02:30:54Z",
                 "owner": "NewsRx",
                 "repo": "resty-gwt",
                 "stars": 1
@@ -980,10 +980,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T14:22:37Z",
+                "last_commit": "2026-08-25T02:07:23Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114747
+                "stars": 114760
               }
             },
             {
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:49:19.428Z",
+    "last_updated": "2026-08-25T02:48:42.817Z",
     "original_repository": "gwtboot/gwt-boot-awesome-lili",
     "original_repository_id": 300066130,
     "original_repository_sha": "4008ee3f22b96b47011d9a1576d3d3eecfb69125",
