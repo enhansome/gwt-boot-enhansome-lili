@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 39412278,
                 "language": "Java",
-                "last_commit": "2026-08-24T01:01:54Z",
+                "last_commit": "2026-08-26T01:02:36Z",
                 "owner": "hal",
                 "repo": "elemento",
                 "stars": 99
@@ -342,7 +342,7 @@
                 "archived": false,
                 "id": 223204805,
                 "language": "Java",
-                "last_commit": "2026-08-25T06:05:06Z",
+                "last_commit": "2026-08-26T00:41:05Z",
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
                 "stars": 34
@@ -640,7 +640,7 @@
                 "archived": false,
                 "id": 1095080713,
                 "language": "Java",
-                "last_commit": "2026-08-25T02:30:54Z",
+                "last_commit": "2026-08-25T17:39:56Z",
                 "owner": "NewsRx",
                 "repo": "resty-gwt",
                 "stars": 1
@@ -980,10 +980,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T02:07:23Z",
+                "last_commit": "2026-08-25T15:33:57Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114766
+                "stars": 114787
               }
             },
             {
@@ -1640,7 +1640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:41:42.047Z",
+    "last_updated": "2026-08-26T02:55:08.374Z",
     "original_repository": "gwtboot/gwt-boot-awesome-lili",
     "original_repository_id": 300066130,
     "original_repository_sha": "4008ee3f22b96b47011d9a1576d3d3eecfb69125",
