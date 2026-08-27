@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 4142738,
                 "language": "Java",
-                "last_commit": "2026-08-07T00:23:41Z",
+                "last_commit": "2026-08-26T18:02:24Z",
                 "owner": "tbroyer",
                 "repo": "gwt-maven-archetypes",
                 "stars": 166
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 39412278,
                 "language": "Java",
-                "last_commit": "2026-08-26T01:02:36Z",
+                "last_commit": "2026-08-26T06:47:54Z",
                 "owner": "hal",
                 "repo": "elemento",
                 "stars": 99
@@ -282,7 +282,7 @@
                 "archived": false,
                 "id": 125716012,
                 "language": "Java",
-                "last_commit": "2026-07-29T10:32:01Z",
+                "last_commit": "2026-08-27T10:51:56Z",
                 "owner": "DominoKit",
                 "repo": "domino-ui",
                 "stars": 239
@@ -342,7 +342,7 @@
                 "archived": false,
                 "id": 223204805,
                 "language": "Java",
-                "last_commit": "2026-08-26T00:41:05Z",
+                "last_commit": "2026-08-27T07:54:07Z",
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
                 "stars": 34
@@ -640,7 +640,7 @@
                 "archived": false,
                 "id": 1095080713,
                 "language": "Java",
-                "last_commit": "2026-08-25T17:39:56Z",
+                "last_commit": "2026-08-26T16:07:14Z",
                 "owner": "NewsRx",
                 "repo": "resty-gwt",
                 "stars": 1
@@ -692,7 +692,7 @@
                 "archived": false,
                 "id": 248346470,
                 "language": "Java",
-                "last_commit": "2026-06-11T21:07:44Z",
+                "last_commit": "2026-08-27T03:08:54Z",
                 "owner": "treblereel",
                 "repo": "mapper-xml",
                 "stars": 4
@@ -980,10 +980,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T15:33:57Z",
+                "last_commit": "2026-08-27T10:09:32Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114787
+                "stars": 114846
               }
             },
             {
@@ -1493,7 +1493,7 @@
                 "last_commit": "2024-11-14T12:23:05Z",
                 "owner": "ReversecLabs",
                 "repo": "GWTMap",
-                "stars": 114
+                "stars": 116
               }
             },
             {
@@ -1640,9 +1640,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:55:08.374Z",
-    "original_repository": "gwtboot/gwt-boot-awesome-lili",
-    "original_repository_id": 300066130,
+    "last_updated": "2026-08-27T12:13:36.401Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 300066130,
+      "language": null,
+      "last_commit": "2026-05-20T06:10:12Z",
+      "owner": "gwtboot",
+      "repo": "gwt-boot-awesome-lili",
+      "stars": 51
+    },
     "original_repository_sha": "4008ee3f22b96b47011d9a1576d3d3eecfb69125",
     "enhanced_repository": "enhansome/gwt-boot-enhansome-lili",
     "enhanced_repository_description": null,
