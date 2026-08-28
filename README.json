@@ -18,7 +18,8 @@
                 "owner": "jiakuan",
                 "repo": "gwt-gradle-plugin",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "esoco",
                 "repo": "gwt-gradle-plugin",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "ascendtech",
                 "repo": "gwt-gradle",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -66,11 +69,12 @@
                 "archived": false,
                 "id": 4142738,
                 "language": "Java",
-                "last_commit": "2026-08-26T18:02:24Z",
+                "last_commit": "2026-08-28T05:27:22Z",
                 "owner": "tbroyer",
                 "repo": "gwt-maven-archetypes",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "gwtboot",
                 "repo": "gwt-boot-modules",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "NaluKit",
                 "repo": "gwt-maven-springboot-archetype",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "gwtboot",
                 "repo": "gwt-boot-maven-archetypes",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -137,7 +144,8 @@
                 "owner": "crysknife-io",
                 "repo": "crysknife",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "gwtplus",
                 "repo": "google-gin",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -174,7 +183,8 @@
                 "owner": "google",
                 "repo": "elemental2",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -185,11 +195,12 @@
                 "archived": false,
                 "id": 39412278,
                 "language": "Java",
-                "last_commit": "2026-08-26T06:47:54Z",
+                "last_commit": "2026-08-28T09:36:42Z",
                 "owner": "hal",
                 "repo": "elemento",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "akasha",
                 "repo": "akasha",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -226,7 +238,8 @@
                 "owner": "GwtMaterialDesign",
                 "repo": "gwt-material",
                 "stars": 420
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -241,7 +254,8 @@
                 "owner": "webfx-project",
                 "repo": "webfx",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -256,7 +270,8 @@
                 "owner": "gwtbootstrap3",
                 "repo": "gwtbootstrap3",
                 "stars": 336
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -271,7 +286,8 @@
                 "owner": "errai",
                 "repo": "errai",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -282,11 +298,12 @@
                 "archived": false,
                 "id": 125716012,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:51:56Z",
+                "last_commit": "2026-08-27T22:58:47Z",
                 "owner": "DominoKit",
                 "repo": "domino-ui",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "VueGWT",
                 "repo": "vue-gwt",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "GWTReact",
                 "repo": "gwt-react",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "ltearno",
                 "repo": "angular2-gwt",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -342,11 +362,12 @@
                 "archived": false,
                 "id": 223204805,
                 "language": "Java",
-                "last_commit": "2026-08-27T07:54:07Z",
+                "last_commit": "2026-08-28T09:35:13Z",
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "treblereel",
                 "repo": "gwtbootstrap3",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "ArcBees",
                 "repo": "gwt-theo",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -391,7 +414,8 @@
                 "owner": "RaHery",
                 "repo": "html-ui-binder",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -406,7 +430,8 @@
                 "owner": "gwt-fusion",
                 "repo": "gwt-fusion-ui",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -421,7 +446,8 @@
                 "owner": "themarioga",
                 "repo": "gwtbootstrap5",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -436,7 +462,8 @@
                 "owner": "sayaya1090",
                 "repo": "sayaya-ui",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -451,7 +478,8 @@
                 "owner": "react4j",
                 "repo": "react4j.github.io",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -473,7 +501,8 @@
                 "owner": "NaluKit",
                 "repo": "nalu",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -488,7 +517,8 @@
                 "owner": "mvp4g",
                 "repo": "mvp4g2",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -503,7 +533,8 @@
                 "owner": "realityforge",
                 "repo": "router-fu",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -525,7 +556,8 @@
                 "owner": "google",
                 "repo": "gwteventbinder",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -547,7 +579,8 @@
                 "owner": "google",
                 "repo": "gwtmockito",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -562,7 +595,8 @@
                 "owner": "realityforge",
                 "repo": "gwt-symbolmap",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -577,7 +611,8 @@
                 "owner": "realityforge",
                 "repo": "grim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -599,7 +634,8 @@
                 "owner": "resty-gwt",
                 "repo": "resty-gwt",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -614,7 +650,8 @@
                 "owner": "reinert",
                 "repo": "requestor",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -629,7 +666,8 @@
                 "owner": "DominoKit",
                 "repo": "domino-rest",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -640,11 +678,12 @@
                 "archived": false,
                 "id": 1095080713,
                 "language": "Java",
-                "last_commit": "2026-08-26T16:07:14Z",
+                "last_commit": "2026-08-27T16:21:32Z",
                 "owner": "NewsRx",
                 "repo": "resty-gwt",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -666,7 +705,8 @@
                 "owner": "nmorel",
                 "repo": "gwt-jackson",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -681,7 +721,8 @@
                 "owner": "DominoKit",
                 "repo": "domino-jackson",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -692,11 +733,12 @@
                 "archived": false,
                 "id": 248346470,
                 "language": "Java",
-                "last_commit": "2026-08-27T03:08:54Z",
+                "last_commit": "2026-08-27T17:34:17Z",
                 "owner": "treblereel",
                 "repo": "mapper-xml",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -718,7 +760,8 @@
                 "owner": "NaluKit",
                 "repo": "malio",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -740,7 +783,8 @@
                 "owner": "ltearno",
                 "repo": "hexa.tools",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -762,7 +806,8 @@
                 "owner": "foal",
                 "repo": "gwt-time",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -784,7 +829,8 @@
                 "owner": "branflake2267",
                 "repo": "GWT-Maps-V3-Api",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -799,7 +845,8 @@
                 "owner": "TDesjardins",
                 "repo": "gwt-ol",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -821,7 +868,8 @@
                 "owner": "gwtd3",
                 "repo": "gwt-d3",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -836,7 +884,8 @@
                 "owner": "pepstock-org",
                 "repo": "Charba",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -851,7 +900,8 @@
                 "owner": "ascendtech",
                 "repo": "gwt-highcharts",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -866,7 +916,8 @@
                 "owner": "sidney3172",
                 "repo": "gwt-chartjs",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -888,7 +939,8 @@
                 "owner": "dikalo",
                 "repo": "lienzo-core",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -903,7 +955,8 @@
                 "owner": "laaglu",
                 "repo": "lib-gwt-svg",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -918,7 +971,8 @@
                 "owner": "ArcBees",
                 "repo": "gwt-snapsvg",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -940,7 +994,8 @@
                 "owner": "jbox2d",
                 "repo": "jbox2d",
                 "stars": 1147
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -962,7 +1017,8 @@
                 "owner": "TDesjardins",
                 "repo": "gwt-matter",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -980,11 +1036,12 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T10:09:32Z",
+                "last_commit": "2026-08-28T02:46:54Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114846
-              }
+                "stars": 114877
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -999,7 +1056,8 @@
                 "owner": "treblereel",
                 "repo": "three4g",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1021,7 +1079,8 @@
                 "owner": "realityforge",
                 "repo": "vecmath",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1036,7 +1095,8 @@
                 "owner": "treblereel",
                 "repo": "gwt-bigmath",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1058,7 +1118,8 @@
                 "owner": "realityforge",
                 "repo": "gwt-qr-code",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1073,7 +1134,8 @@
                 "owner": "masterdany88",
                 "repo": "gwt-qr-scanner",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1095,7 +1157,8 @@
                 "owner": "ainslec",
                 "repo": "GWTJSZip",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1117,7 +1180,8 @@
                 "owner": "ainslec",
                 "repo": "FileSaverJsGwt",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1139,7 +1203,8 @@
                 "owner": "ArcBees",
                 "repo": "gwt-stripe",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1154,7 +1219,8 @@
                 "owner": "schube",
                 "repo": "paypalwithgwt",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1176,7 +1242,8 @@
                 "owner": "NaluKit",
                 "repo": "iban4g",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1198,7 +1265,8 @@
                 "owner": "tomekziel",
                 "repo": "gwtwwlinker",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1213,7 +1281,8 @@
                 "owner": "gwtplus",
                 "repo": "gwt-worker",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1228,7 +1297,8 @@
                 "owner": "realityforge",
                 "repo": "gwt-serviceworker-linker",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1250,7 +1320,8 @@
                 "owner": "niloc132",
                 "repo": "webbit-gwt",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1265,7 +1336,8 @@
                 "owner": "jumanor",
                 "repo": "gwt_socket.io",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1287,7 +1359,8 @@
                 "owner": "OneGeek",
                 "repo": "GWT-CompletableFuture",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1302,7 +1375,8 @@
                 "owner": "reinert",
                 "repo": "gdeferred",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1317,7 +1391,8 @@
                 "owner": "jimmyfm",
                 "repo": "gwt-promises",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1339,7 +1414,8 @@
                 "owner": "intendia-oss",
                 "repo": "rxjava-gwt",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1354,7 +1430,8 @@
                 "owner": "intendia-oss",
                 "repo": "rxgwt",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1369,7 +1446,8 @@
                 "owner": "sayaya1090",
                 "repo": "sayaya-rx",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1391,7 +1469,8 @@
                 "owner": "realityforge",
                 "repo": "gwt-cache-filter",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1413,7 +1492,8 @@
                 "owner": "ArcBees",
                 "repo": "gwtquery",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1428,7 +1508,8 @@
                 "owner": "jqm4gwt",
                 "repo": "jqm4gwt",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1450,7 +1531,8 @@
                 "owner": "cretz",
                 "repo": "gwt-node",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1472,7 +1554,8 @@
                 "owner": "ArcBees",
                 "repo": "universal-analytics",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1494,7 +1577,8 @@
                 "owner": "ReversecLabs",
                 "repo": "GWTMap",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1509,7 +1593,8 @@
                 "owner": "realityforge",
                 "repo": "gwt-keycloak",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1531,7 +1616,8 @@
                 "owner": "peruncs",
                 "repo": "gwt",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1546,7 +1632,8 @@
                 "owner": "realityforge",
                 "repo": "org.jetbrains.annotations",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1561,7 +1648,8 @@
                 "owner": "realityforge",
                 "repo": "javax.annotation",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1576,7 +1664,8 @@
                 "owner": "realityforge",
                 "repo": "braincheck",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1598,7 +1687,8 @@
                 "owner": "google",
                 "repo": "jsinterop-generator",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1613,7 +1703,8 @@
                 "owner": "akasha",
                 "repo": "akasha",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             },
             {
               "node_type": "item",
@@ -1628,7 +1719,8 @@
                 "owner": "ltearno",
                 "repo": "typescript2java",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T13:26:35.836Z"
             }
           ],
           "description": null,
@@ -1640,7 +1732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:13:36.401Z",
+    "last_updated": "2026-08-28T13:26:35.836Z",
     "original_repository_info": {
       "archived": false,
       "id": 300066130,
