@@ -1518,11 +1518,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:55:40Z",
-                "open_issues": 380,
+                "last_commit": "2026-08-29T08:16:46Z",
+                "open_issues": 383,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114904,
+                "stars": 114909,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2454,7 +2454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:05:54.702Z",
+    "last_updated": "2026-08-29T08:21:08.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
