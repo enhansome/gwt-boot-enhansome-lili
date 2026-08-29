@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gradle plugin to support GWT related tasks.",
+                "homepage": "https://gwt-gradle.docstr.org",
                 "id": 96577446,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-16T05:15:51Z",
+                "open_issues": 4,
                 "owner": "jiakuan",
                 "repo": "gwt-gradle-plugin",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "gradle",
+                  "gwt",
+                  "gwt-gradle"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -28,12 +37,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A gradle plugin for building and executing GWT projects (http://www.gwtproject.org/)",
+                "homepage": null,
                 "id": 147231296,
                 "language": "Java",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-05-12T15:09:38Z",
+                "open_issues": 10,
                 "owner": "esoco",
                 "repo": "gwt-gradle-plugin",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -44,12 +58,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gradle GWT Plugin For Modern Web applications using NPM/Webpack",
+                "homepage": null,
                 "id": 137293832,
                 "language": "Groovy",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-16T19:09:38Z",
+                "open_issues": 2,
                 "owner": "ascendtech",
                 "repo": "gwt-gradle",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "gwt",
+                  "npm",
+                  "webpack4"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -67,12 +90,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 4142738,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:27:22Z",
+                "open_issues": 1,
                 "owner": "tbroyer",
                 "repo": "gwt-maven-archetypes",
-                "stars": 166
+                "stars": 166,
+                "topics": [
+                  "gwt",
+                  "maven-archetypes"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -83,12 +114,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT Boot: BOMs and POMs, Starters, Dependencies and Parent",
+                "homepage": null,
                 "id": 125577043,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-22T15:31:58Z",
+                "open_issues": 4,
                 "owner": "gwtboot",
                 "repo": "gwt-boot-modules",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "bom",
+                  "dependency-descriptors",
+                  "gwt",
+                  "gwt-boot",
+                  "java",
+                  "javascript",
+                  "parent-pom",
+                  "pom",
+                  "spring-boot",
+                  "starter",
+                  "starters"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -99,12 +147,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project contains Maven archetypes for modular GWT projects using Spring Boot Server",
+                "homepage": null,
                 "id": 292210210,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-09T09:05:14Z",
+                "open_issues": 1,
                 "owner": "NaluKit",
                 "repo": "gwt-maven-springboot-archetype",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -115,12 +168,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT Boot: Maven Archetypes for GWT Boot",
+                "homepage": null,
                 "id": 455587750,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-01T13:27:06Z",
+                "open_issues": 0,
                 "owner": "gwtboot",
                 "repo": "gwt-boot-maven-archetypes",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -138,12 +196,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dependency Injection and html templates framework for J2CL. Relaxed implementation of Jakarta CDI",
+                "homepage": null,
                 "id": 171965846,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T23:08:49Z",
+                "open_issues": 13,
                 "owner": "crysknife-io",
                 "repo": "crysknife",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "cdi",
+                  "closure-compiler",
+                  "closure-library",
+                  "htmltemplate",
+                  "j2cl",
+                  "jakarta",
+                  "java",
+                  "javascript",
+                  "maven"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -154,12 +227,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Gin",
+                "homepage": "http://gwtplus.github.io/google-gin/",
                 "id": 60455555,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-20T14:46:47Z",
+                "open_issues": 8,
                 "owner": "gwtplus",
                 "repo": "google-gin",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "gin",
+                  "google-gin",
+                  "guice",
+                  "gwt",
+                  "injection",
+                  "jsr-330"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -177,12 +262,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type checked access to browser APIs for Java code.",
+                "homepage": null,
                 "id": 91626146,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T17:00:55Z",
+                "open_issues": 18,
                 "owner": "google",
                 "repo": "elemental2",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "dom",
+                  "gwt",
+                  "indexeddb",
+                  "j2cl",
+                  "jsinterop",
+                  "promise",
+                  "svg",
+                  "web-storage",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -193,12 +293,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Builder API and other goodies for Elemental2",
+                "homepage": "https://hal.github.io/elemento/",
                 "id": 39412278,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:36:42Z",
+                "open_issues": 0,
                 "owner": "hal",
                 "repo": "elemento",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "asynchronous",
+                  "builder",
+                  "dom",
+                  "elemental2",
+                  "flow",
+                  "gwt",
+                  "j2cl",
+                  "logging",
+                  "router",
+                  "tasks",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -209,12 +326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typed Browser APIs",
+                "homepage": null,
                 "id": 245569208,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T03:47:31Z",
+                "open_issues": 21,
                 "owner": "akasha",
                 "repo": "akasha",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -232,12 +354,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Google Material Design wrapper for GWT ",
+                "homepage": "https://gwtmaterialdesign.github.io/gmd-core-demo/",
                 "id": 33250810,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-20T22:14:37Z",
+                "open_issues": 108,
                 "owner": "GwtMaterialDesign",
                 "repo": "gwt-material",
-                "stars": 420
+                "stars": 420,
+                "topics": [
+                  "demo",
+                  "google-material",
+                  "gwt",
+                  "gwt-material",
+                  "java",
+                  "javascript",
+                  "snapshot",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -248,12 +384,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaFX application transpiler. Write your Web Application in JavaFX and WebFX will transpile it in pure JS.",
+                "homepage": "https://webfx.dev",
                 "id": 44308813,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T18:58:24Z",
+                "open_issues": 3,
                 "owner": "webfx-project",
                 "repo": "webfx",
-                "stars": 402
+                "stars": 402,
+                "topics": [
+                  "cross-platform",
+                  "gwt",
+                  "html",
+                  "java",
+                  "javafx",
+                  "javascript",
+                  "transpiler",
+                  "web",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -264,12 +415,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GWT wrapper for the Bootstrap front-end framework",
+                "homepage": null,
                 "id": 12151814,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-11-14T17:21:37Z",
+                "open_issues": 6,
                 "owner": "gwtbootstrap3",
                 "repo": "gwtbootstrap3",
-                "stars": 336
+                "stars": 336,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -280,12 +436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Errai",
+                "homepage": "http://erraiframework.org",
                 "id": 899555,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T13:47:08Z",
+                "open_issues": 15,
                 "owner": "errai",
                 "repo": "errai",
-                "stars": 284
+                "stars": 284,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -296,12 +457,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Domino-ui",
+                "homepage": null,
                 "id": 125716012,
                 "language": "Java",
-                "last_commit": "2026-08-27T22:58:47Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:50:02Z",
+                "open_issues": 19,
                 "owner": "DominoKit",
                 "repo": "domino-ui",
-                "stars": 239
+                "stars": 239,
+                "topics": [
+                  "builder",
+                  "elemental2",
+                  "gwt",
+                  "java",
+                  "javascript",
+                  "material-design",
+                  "type-safety",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -312,12 +487,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vue.js Components/Custom Elements in Java with GWT. Developed at https://www.genmymodel.com.",
+                "homepage": "https://vuegwt.github.io/vue-gwt/",
                 "id": 77237038,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2023-01-07T16:11:55Z",
+                "open_issues": 44,
                 "owner": "VueGWT",
                 "repo": "vue-gwt",
-                "stars": 213
+                "stars": 213,
+                "topics": [
+                  "gwt",
+                  "java",
+                  "vue",
+                  "vue-components",
+                  "vue-gwt",
+                  "vuejs",
+                  "web-components"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -328,12 +516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT Java bindings for React",
+                "homepage": null,
                 "id": 56238198,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2018-05-02T18:35:09Z",
+                "open_issues": 4,
                 "owner": "GWTReact",
                 "repo": "gwt-react",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -344,12 +537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integrating Angular 2 and GWT 2.8",
+                "homepage": null,
                 "id": 55985849,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-09-27T13:00:17Z",
+                "open_issues": 5,
                 "owner": "ltearno",
                 "repo": "angular2-gwt",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -360,12 +558,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PatternFly Java implementation",
+                "homepage": "https://patternfly-java.github.io/",
                 "id": 223204805,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:35:13Z",
+                "open_issues": 39,
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "elemento",
+                  "gwt",
+                  "hacktoberfest",
+                  "j2cl",
+                  "java",
+                  "patternfly"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -376,12 +586,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT wrapper for the Bootstrap front-end framework",
+                "homepage": null,
                 "id": 190029044,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-31T04:33:55Z",
+                "open_issues": 0,
                 "owner": "treblereel",
                 "repo": "gwtbootstrap3",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -392,12 +607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT Theo",
+                "homepage": null,
                 "id": 34348734,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-08-11T03:46:16Z",
+                "open_issues": 0,
                 "owner": "ArcBees",
                 "repo": "gwt-theo",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -408,12 +628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT uibinder using html/css as template.",
+                "homepage": null,
                 "id": 6063644,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2016-08-17T19:45:29Z",
+                "open_issues": 8,
                 "owner": "RaHery",
                 "repo": "html-ui-binder",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -424,12 +649,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://demo.gwtfusion.org",
                 "id": 1239250695,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-01T16:00:14Z",
+                "open_issues": 1,
                 "owner": "gwt-fusion",
                 "repo": "gwt-fusion-ui",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -440,12 +670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWTBootstrap5",
+                "homepage": null,
                 "id": 883605844,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-11T09:55:33Z",
+                "open_issues": 1,
                 "owner": "themarioga",
                 "repo": "gwtbootstrap5",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -456,12 +691,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1092584074,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-02-15T00:03:47Z",
+                "open_issues": 0,
                 "owner": "sayaya1090",
                 "repo": "sayaya-ui",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -472,12 +712,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React4j website",
+                "homepage": "https://react4j.github.io",
                 "id": 111669872,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-07-13T12:23:14Z",
+                "open_issues": 0,
                 "owner": "react4j",
                 "repo": "react4j.github.io",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -495,12 +740,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Routing based application framework for GWT & J2CL",
+                "homepage": null,
                 "id": 143152220,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-11T11:26:50Z",
+                "open_issues": 5,
                 "owner": "NaluKit",
                 "repo": "nalu",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "client-side",
+                  "eventbus",
+                  "gwt",
+                  "history",
+                  "history-management",
+                  "j2cl",
+                  "java",
+                  "mvp",
+                  "mvp-architecture",
+                  "router",
+                  "routing"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -511,12 +773,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model, View, Presenter with Event Bus & Place-Managment for GWT based on APT & Elemental 2. (J2CL / GWT 3 ready!)",
+                "homepage": null,
                 "id": 46654747,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-17T09:04:47Z",
+                "open_issues": 1,
                 "owner": "mvp4g",
                 "repo": "mvp4g2",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "client-side",
+                  "eventbus",
+                  "gwt",
+                  "java-8",
+                  "mvp",
+                  "mvp4g",
+                  "mvp4g2",
+                  "places"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -527,12 +803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework agnostic, state producing router",
+                "homepage": null,
                 "id": 110496114,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-07T06:19:06Z",
+                "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "router-fu",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -550,12 +831,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Making GWT EventBus easy",
+                "homepage": "http://google.github.io/gwteventbinder",
                 "id": 9922058,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-06-24T18:57:07Z",
+                "open_issues": 7,
                 "owner": "google",
                 "repo": "gwteventbinder",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -573,12 +859,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Better GWT unit testing",
+                "homepage": "https://google.github.io/gwtmockito",
                 "id": 9922054,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-06T19:38:15Z",
+                "open_issues": 23,
                 "owner": "google",
                 "repo": "gwtmockito",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -589,12 +880,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT SymbolMap Assertions Library.",
+                "homepage": null,
                 "id": 125270747,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T02:19:44Z",
+                "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "gwt-symbolmap",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -605,12 +901,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ensure dead code is eliminated",
+                "homepage": null,
                 "id": 214346834,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-07T06:19:06Z",
+                "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "grim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -628,12 +929,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like GWT-RPC but with REST/JSON coolness",
+                "homepage": "http://restygwt.fusesource.org/",
                 "id": 340634,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-02T21:51:09Z",
+                "open_issues": 90,
                 "owner": "resty-gwt",
                 "repo": "resty-gwt",
-                "stars": 294
+                "stars": 294,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -644,12 +950,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Request like a boss. 😎",
+                "homepage": null,
                 "id": 26403452,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-03T04:13:01Z",
+                "open_issues": 8,
                 "owner": "reinert",
                 "repo": "requestor",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -660,12 +971,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "domino-rest",
+                "homepage": null,
                 "id": 141433783,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T14:45:30Z",
+                "open_issues": 6,
                 "owner": "DominoKit",
                 "repo": "domino-rest",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -676,12 +992,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like GWT-RPC but with REST/JSON coolness. REST submodule.",
+                "homepage": null,
                 "id": 1095080713,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-27T16:21:32Z",
+                "open_issues": 1,
                 "owner": "NewsRx",
                 "repo": "resty-gwt",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -699,12 +1020,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gwt-jackson is a JSON parser for GWT. It uses Jackson 2.x annotations to customize the serialization/deserialization process.",
+                "homepage": null,
                 "id": 12341002,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-15T01:27:18Z",
+                "open_issues": 35,
                 "owner": "nmorel",
                 "repo": "gwt-jackson",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "gwt",
+                  "jackson",
+                  "json"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -715,12 +1045,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jackson with Annotation processing",
+                "homepage": null,
                 "id": 114929428,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-27T19:56:52Z",
+                "open_issues": 20,
                 "owner": "DominoKit",
                 "repo": "domino-jackson",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "annotation-processing",
+                  "gwt",
+                  "gwt-jackson",
+                  "jsinterop",
+                  "json",
+                  "json-parser",
+                  "json-serialization"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -731,12 +1074,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "j2cl/gwt compatible XML marshallers",
+                "homepage": null,
                 "id": 248346470,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T17:34:17Z",
+                "open_issues": 4,
                 "owner": "treblereel",
                 "repo": "mapper-xml",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "gwt",
+                  "j2cl",
+                  "java",
+                  "jaxb",
+                  "mapper",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -754,12 +1109,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validation library for Java, GWT & J2CL",
+                "homepage": null,
                 "id": 624550182,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-22T06:45:04Z",
+                "open_issues": 0,
                 "owner": "NaluKit",
                 "repo": "malio",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "gwt",
+                  "j2cl",
+                  "java",
+                  "validation",
+                  "validation-library",
+                  "validator"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -777,12 +1144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools to aid Java development, mainly for GWT",
+                "homepage": null,
                 "id": 21547903,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2022-02-08T02:08:52Z",
+                "open_issues": 2,
                 "owner": "ltearno",
                 "repo": "hexa.tools",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -800,12 +1172,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backport of functionality based on JSR-310 to GWT. This is NOT an implementation of JSR-310.",
+                "homepage": null,
                 "id": 240708009,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-09-15T08:28:36Z",
+                "open_issues": 1,
                 "owner": "foal",
                 "repo": "gwt-time",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "gwt",
+                  "jsr-310",
+                  "localdate",
+                  "localtime",
+                  "timezone"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -823,12 +1206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT Maps V3 Javascript Bindings",
+                "homepage": null,
                 "id": 3824893,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-13T06:40:27Z",
+                "open_issues": 54,
                 "owner": "branflake2267",
                 "repo": "GWT-Maps-V3-Api",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -839,12 +1227,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT wrapper for OpenLayers 3+ using JSInterop",
+                "homepage": null,
                 "id": 24293015,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-06T17:32:49Z",
+                "open_issues": 5,
                 "owner": "TDesjardins",
                 "repo": "gwt-ol",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "gis",
+                  "gwt",
+                  "gwt-ol",
+                  "gwt-ol3",
+                  "java",
+                  "jsinterop",
+                  "mapping",
+                  "maps",
+                  "ogc",
+                  "ol",
+                  "ol3",
+                  "ol6",
+                  "openlayers",
+                  "web",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -862,12 +1271,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A GWT wrapper library around the d3.js library",
+                "homepage": null,
                 "id": 10404407,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-26T18:31:00Z",
+                "open_issues": 37,
                 "owner": "gwtd3",
                 "repo": "gwt-d3",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -878,12 +1292,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "J2CL and GWT Charts library based on CHART.JS",
+                "homepage": "https://pepstock-org.github.io/Charba-Wiki/docs",
                 "id": 106569586,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-10T11:47:47Z",
+                "open_issues": 5,
                 "owner": "pepstock-org",
                 "repo": "Charba",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "chart-library",
+                  "chartjs",
+                  "elemental2",
+                  "elemento",
+                  "gwt",
+                  "gwt-charts-library",
+                  "gwt-library",
+                  "gwt-widget",
+                  "j2cl",
+                  "java",
+                  "javascript",
+                  "jsinterop"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -894,12 +1326,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSInterop wrapping of Highcharts.js ",
+                "homepage": null,
                 "id": 143014353,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-16T15:10:20Z",
+                "open_issues": 0,
                 "owner": "ascendtech",
                 "repo": "gwt-highcharts",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "charts",
+                  "gwt",
+                  "gwt-library",
+                  "highcharts",
+                  "jsinterop"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -910,12 +1353,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GWT wrapper for ChartJS library",
+                "homepage": null,
                 "id": 9266015,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-01-11T19:57:25Z",
+                "open_issues": 14,
                 "owner": "sidney3172",
                 "repo": "gwt-chartjs",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -933,12 +1381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lienzo Structure Graphics GWT Toolkit",
+                "homepage": null,
                 "id": 22034182,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-22T05:53:54Z",
+                "open_issues": 23,
                 "owner": "dikalo",
                 "repo": "lienzo-core",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -949,12 +1402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a general purpose SVG library for GWT. The goal is to make it easy to do SVG graphics in a GWT application",
+                "homepage": "http://www.vectomatic.org/libs/lib-gwt-svg",
                 "id": 3621273,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2020-04-03T07:14:24Z",
+                "open_issues": 7,
                 "owner": "laaglu",
                 "repo": "lib-gwt-svg",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -965,12 +1423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT wrapper for Snap.svg library",
+                "homepage": null,
                 "id": 41265346,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-05-21T15:05:51Z",
+                "open_issues": 0,
                 "owner": "ArcBees",
                 "repo": "gwt-snapsvg",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -988,12 +1451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a 2d Java physics engine, native java port of the C++ physics engines Box2D and LiquidFun ",
+                "homepage": "http://www.jbox2d.org",
                 "id": 15647178,
                 "language": "Java",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-09-19T18:39:46Z",
+                "open_issues": 25,
                 "owner": "jbox2d",
                 "repo": "jbox2d",
-                "stars": 1147
+                "stars": 1147,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1011,12 +1479,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT-wrapper for physics engine matter.js",
+                "homepage": null,
                 "id": 205597144,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-13T17:01:38Z",
+                "open_issues": 0,
                 "owner": "TDesjardins",
                 "repo": "gwt-matter",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "engine",
+                  "gwt",
+                  "jsinterop",
+                  "matter-js",
+                  "physics"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1034,12 +1513,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript 3D Library.",
+                "homepage": "https://threejs.org/",
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T02:46:54Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:55:40Z",
+                "open_issues": 380,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114877
+                "stars": 114904,
+                "topics": [
+                  "3d",
+                  "augmented-reality",
+                  "canvas",
+                  "html5",
+                  "javascript",
+                  "svg",
+                  "virtual-reality",
+                  "webaudio",
+                  "webgl",
+                  "webgl2",
+                  "webgpu",
+                  "webxr"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1050,12 +1547,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Three.js for GWT",
+                "homepage": null,
                 "id": 123590166,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-11T18:54:11Z",
+                "open_issues": 7,
                 "owner": "treblereel",
                 "repo": "three4g",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "3d",
+                  "gwt",
+                  "html5",
+                  "java",
+                  "vr",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1073,12 +1582,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 300755343,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-26T02:52:58Z",
+                "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "vecmath",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1089,12 +1603,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "port of amazing https://github.com/eobermuhlner/big-math",
+                "homepage": null,
                 "id": 261897559,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2020-10-19T09:37:27Z",
+                "open_issues": 0,
                 "owner": "treblereel",
                 "repo": "gwt-bigmath",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1112,12 +1631,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GWT QR Code Generation",
+                "homepage": null,
                 "id": 127280997,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2020-03-10T00:28:42Z",
+                "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "gwt-qr-code",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1128,12 +1652,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gwt jsinterop wrapper for https://github.com/nimiq/qr-scanner",
+                "homepage": null,
                 "id": 161239705,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-17T20:04:10Z",
+                "open_issues": 0,
                 "owner": "masterdany88",
                 "repo": "gwt-qr-scanner",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1151,12 +1680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT wrapper for jszip.js",
+                "homepage": null,
                 "id": 234825632,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-01-19T04:19:07Z",
+                "open_issues": 0,
                 "owner": "ainslec",
                 "repo": "GWTJSZip",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1174,12 +1708,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trivial GWT Wrapper around FileSaver-JS Library",
+                "homepage": null,
                 "id": 46578106,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-01-19T04:32:36Z",
+                "open_issues": 0,
                 "owner": "ainslec",
                 "repo": "FileSaverJsGwt",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1197,12 +1736,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 12933263,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-02-17T14:27:28Z",
+                "open_issues": 0,
                 "owner": "ArcBees",
                 "repo": "gwt-stripe",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1213,12 +1757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example, how to use Paypal with GWT 2.8.2 and JSInterop",
+                "homepage": null,
                 "id": 171523100,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-08-08T09:07:17Z",
+                "open_issues": 0,
                 "owner": "schube",
                 "repo": "paypalwithgwt",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1236,12 +1785,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of Artur Mkrtchyan's iban4j project so that it will work with Java, GWT or J2CL. A library for generation and validation of the International Bank Account Numbers IBAN (ISO_13616) and Business Identifier Codes BIC (ISO_9362). ",
+                "homepage": null,
                 "id": 102397588,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-27T11:11:00Z",
+                "open_issues": 5,
                 "owner": "NaluKit",
                 "repo": "iban4g",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "artur-mkrtchyan-iban4j",
+                  "bic",
+                  "gwt",
+                  "gwt-library",
+                  "iban",
+                  "iban4j",
+                  "j2cl",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1259,12 +1822,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML5 web worker for GWT with Elemental",
+                "homepage": null,
                 "id": 15175101,
                 "language": "CSS",
+                "license": "Apache-2.0",
                 "last_commit": "2014-05-13T12:35:19Z",
+                "open_issues": 1,
                 "owner": "tomekziel",
                 "repo": "gwtwwlinker",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1275,12 +1843,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial WebWorker support in GWT 2.7.0",
+                "homepage": null,
                 "id": 34943190,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-03-22T09:59:09Z",
+                "open_issues": 4,
                 "owner": "gwtplus",
                 "repo": "gwt-worker",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1291,12 +1864,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 246172321,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-26T02:53:55Z",
+                "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "gwt-serviceworker-linker",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1314,12 +1892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gwt-websockets",
+                "homepage": null,
                 "id": 10133764,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-12-31T15:09:47Z",
+                "open_issues": 9,
                 "owner": "niloc132",
                 "repo": "webbit-gwt",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1330,12 +1913,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "socket.io client library for GWT",
+                "homepage": null,
                 "id": 56367330,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2021-10-26T19:44:42Z",
+                "open_issues": 0,
                 "owner": "jumanor",
                 "repo": "gwt_socket.io",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1353,12 +1941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT compatible implementation of java.util.concurrent.CompletableFuture and supporting classes",
+                "homepage": null,
                 "id": 102643421,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-10T22:03:37Z",
+                "open_issues": 1,
                 "owner": "OneGeek",
                 "repo": "GWT-CompletableFuture",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1369,12 +1962,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT Deferred/Promise API similar to jQuery.",
+                "homepage": null,
                 "id": 26376504,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-13T00:21:48Z",
+                "open_issues": 2,
                 "owner": "reinert",
                 "repo": "gdeferred",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1385,12 +1983,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript Promises nicely wrapped in GWT using JsInterop",
+                "homepage": null,
                 "id": 91650212,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-07-11T02:23:08Z",
+                "open_issues": 0,
                 "owner": "jimmyfm",
                 "repo": "gwt-promises",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "gwt",
+                  "jsinterop",
+                  "promises"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1408,12 +2015,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxJava semi-automatic GWT compatibility library",
+                "homepage": null,
                 "id": 24603615,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-17T20:22:02Z",
+                "open_issues": 0,
                 "owner": "intendia-oss",
                 "repo": "rxjava-gwt",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "gwt",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1424,12 +2039,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxJava bindings for GWT",
+                "homepage": null,
                 "id": 60901909,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-04-17T20:33:56Z",
+                "open_issues": 0,
                 "owner": "intendia-oss",
                 "repo": "rxgwt",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "gwt",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1440,12 +2063,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1092042402,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-02-22T18:18:27Z",
+                "open_issues": 0,
                 "owner": "sayaya1090",
                 "repo": "sayaya-rx",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1463,12 +2091,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 11167679,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-17T00:51:44Z",
+                "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "gwt-cache-filter",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1486,12 +2119,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A jQuery clone for GWT, and much more.",
+                "homepage": null,
                 "id": 5971748,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-01-27T08:05:30Z",
+                "open_issues": 47,
                 "owner": "ArcBees",
                 "repo": "gwtquery",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "gquery",
+                  "gwt",
+                  "gwtquery",
+                  "java",
+                  "javascript",
+                  "jquery",
+                  "query"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1502,12 +2148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT library for jQuery Mobile",
+                "homepage": null,
                 "id": 5685877,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-17T00:05:57Z",
+                "open_issues": 3,
                 "owner": "jqm4gwt",
                 "repo": "jqm4gwt",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1525,12 +2176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT implementation of standard the node.js library",
+                "homepage": null,
                 "id": 1229099,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2011-11-05T00:32:37Z",
+                "open_issues": 3,
                 "owner": "cretz",
                 "repo": "gwt-node",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1548,12 +2204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete GWT wrapper for Google's Universal Analytics",
+                "homepage": null,
                 "id": 19244609,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-10-29T05:59:50Z",
+                "open_issues": 3,
                 "owner": "ArcBees",
                 "repo": "universal-analytics",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1571,12 +2232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 305381741,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-11-14T12:23:05Z",
+                "open_issues": 9,
                 "owner": "ReversecLabs",
                 "repo": "GWTMap",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1587,12 +2253,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 71099147,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-26T02:53:47Z",
+                "open_issues": 5,
                 "owner": "realityforge",
                 "repo": "gwt-keycloak",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1610,12 +2281,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT goodies",
+                "homepage": null,
                 "id": 89534298,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-01T06:46:58Z",
+                "open_issues": 1,
                 "owner": "peruncs",
                 "repo": "gwt",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "auth0",
+                  "gwt",
+                  "jquery",
+                  "jsinterop",
+                  "jwt",
+                  "keycloak",
+                  "okta",
+                  "stripe-payments"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1626,12 +2311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal, J2CL compatible org.jetbrains.annotations library",
+                "homepage": null,
                 "id": 140839898,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T02:19:04Z",
+                "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "org.jetbrains.annotations",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1642,12 +2332,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal, J2CL compatible javax.annotation library",
+                "homepage": null,
                 "id": 137611903,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T02:18:57Z",
+                "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "javax.annotation",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1658,12 +2353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BrainCheck: A very simply invariant verification library",
+                "homepage": "http://realityforge.org/braincheck",
                 "id": 104299782,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-20T12:27:16Z",
+                "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "braincheck",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1681,12 +2381,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generates Java annotated with JsInterop from JavaScript extern sources",
+                "homepage": null,
                 "id": 91136737,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T21:38:21Z",
+                "open_issues": 18,
                 "owner": "google",
                 "repo": "jsinterop-generator",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "closure",
+                  "extern",
+                  "gwt",
+                  "j2cl",
+                  "java",
+                  "jsinterop"
+                ]
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1697,12 +2409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typed Browser APIs",
+                "homepage": null,
                 "id": 245569208,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T03:47:31Z",
+                "open_issues": 21,
                 "owner": "akasha",
                 "repo": "akasha",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             },
@@ -1713,12 +2430,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typescript type definition to JsInterop GWT Java types converter",
+                "homepage": null,
                 "id": 105017866,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-11-17T08:00:45Z",
+                "open_issues": 5,
                 "owner": "ltearno",
                 "repo": "typescript2java",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
             }
@@ -1732,15 +2454,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:26:35.836Z",
+    "last_updated": "2026-08-29T05:05:54.702Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
+      "homepage": null,
       "id": 300066130,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-05-20T06:10:12Z",
+      "open_issues": 0,
       "owner": "gwtboot",
       "repo": "gwt-boot-awesome-lili",
-      "stars": 51
+      "stars": 51,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "boot",
+        "gwt",
+        "gwt-boot",
+        "javascript",
+        "jsinterop"
+      ]
     },
     "original_repository_sha": "4008ee3f22b96b47011d9a1576d3d3eecfb69125",
     "enhanced_repository": "enhansome/gwt-boot-enhansome-lili",
