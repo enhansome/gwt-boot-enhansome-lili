@@ -1079,7 +1079,7 @@
                 "id": 248346470,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T17:34:17Z",
+                "last_commit": "2026-08-30T03:18:10Z",
                 "open_issues": 4,
                 "owner": "treblereel",
                 "repo": "mapper-xml",
@@ -1518,11 +1518,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T08:16:46Z",
-                "open_issues": 383,
+                "last_commit": "2026-08-30T00:11:36Z",
+                "open_issues": 377,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114909,
+                "stars": 114931,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2454,7 +2454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:21:08.320Z",
+    "last_updated": "2026-08-30T07:34:44.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
