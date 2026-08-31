@@ -202,7 +202,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-12T23:08:49Z",
-                "open_issues": 13,
+                "open_issues": 15,
                 "owner": "crysknife-io",
                 "repo": "crysknife",
                 "stars": 37,
@@ -997,7 +997,7 @@
                 "id": 1095080713,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-08-27T16:21:32Z",
+                "last_commit": "2026-08-31T03:01:47Z",
                 "open_issues": 1,
                 "owner": "NewsRx",
                 "repo": "resty-gwt",
@@ -1518,11 +1518,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T00:11:36Z",
-                "open_issues": 377,
+                "last_commit": "2026-08-31T07:24:47Z",
+                "open_issues": 376,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114931,
+                "stars": 114959,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -1794,7 +1794,7 @@
                 "open_issues": 5,
                 "owner": "NaluKit",
                 "repo": "iban4g",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "artur-mkrtchyan-iban4j",
                   "bic",
@@ -2454,7 +2454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:34:44.869Z",
+    "last_updated": "2026-08-31T07:46:22.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
