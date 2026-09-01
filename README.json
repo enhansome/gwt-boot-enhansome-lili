@@ -298,8 +298,8 @@
                 "id": 39412278,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T09:36:42Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-01T03:19:16Z",
+                "open_issues": 1,
                 "owner": "hal",
                 "repo": "elemento",
                 "stars": 99,
@@ -563,8 +563,8 @@
                 "id": 223204805,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T09:35:13Z",
-                "open_issues": 39,
+                "last_commit": "2026-09-01T06:04:32Z",
+                "open_issues": 41,
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
                 "stars": 34,
@@ -997,7 +997,7 @@
                 "id": 1095080713,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-08-31T03:01:47Z",
+                "last_commit": "2026-09-01T02:18:46Z",
                 "open_issues": 1,
                 "owner": "NewsRx",
                 "repo": "resty-gwt",
@@ -1460,7 +1460,7 @@
                 "open_issues": 25,
                 "owner": "jbox2d",
                 "repo": "jbox2d",
-                "stars": 1147,
+                "stars": 1148,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -1518,11 +1518,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-31T07:24:47Z",
-                "open_issues": 376,
+                "last_commit": "2026-08-31T18:15:44Z",
+                "open_issues": 377,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114959,
+                "stars": 114990,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2439,7 +2439,7 @@
                 "open_issues": 5,
                 "owner": "ltearno",
                 "repo": "typescript2java",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -2454,7 +2454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:46:22.659Z",
+    "last_updated": "2026-09-01T06:52:18.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
