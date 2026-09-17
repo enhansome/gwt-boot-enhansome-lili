@@ -59,7 +59,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## Gradle Plugin
 
-* [gwt-gradle-plugin](https://github.com/jiakuan/gwt-gradle-plugin) ⭐ 72 | 🐛 4 | 🌐 Java | 📅 2026-06-16 - Gradle plugin for GWT
+* [gwt-gradle-plugin](https://github.com/jiakuan/gwt-gradle-plugin) ⭐ 73 | 🐛 4 | 🌐 Java | 📅 2026-06-16 - Gradle plugin for GWT
 * [gwt-gradle-plugin](https://github.com/esoco/gwt-gradle-plugin) ⭐ 39 | 🐛 10 | 🌐 Java | 📅 2026-05-12 - Gradle plugin for GWT
 * [gwt-gradle](https://github.com/ascendtech/gwt-gradle) ⭐ 22 | 🐛 2 | 🌐 Groovy | 📅 2026-07-16 - Gradle plugin for GWT
 
@@ -99,7 +99,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 * [vue-gwt](https://github.com/VueGWT/vue-gwt) ⭐ 212 | 🐛 44 | 🌐 Java | 📅 2023-01-07 - UI framework based on [vuejs](https://vuejs.org) :sparkling\_heart:
 * [gwt-react](https://github.com/GWTReact/gwt-react) ⭐ 95 | 🐛 4 | 🌐 Java | 📅 2018-05-02 - UI framework based on [react](https://reactjs.org)
 * [angular2-gwt](https://github.com/ltearno/angular2-gwt) ⭐ 61 | 🐛 5 | 🌐 Java | 📅 2017-09-27 - UI framework based on [angular](https://angular.io)
-* [patternfly-java](https://github.com/patternfly-java/patternfly-java) ⭐ 34 | 🐛 39 | 🌐 Java | 📅 2026-09-16 - UI framework based on
+* [patternfly-java](https://github.com/patternfly-java/patternfly-java) ⭐ 34 | 🐛 39 | 🌐 Java | 📅 2026-09-17 - UI framework based on
   [patternfly](https://www.patternfly.org) :sparkling\_heart:
 * [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) ⭐ 10 | 🐛 0 | 🌐 Java | 📅 2022-03-31 - UI framework based on
   [bootstrap](https://getbootstrap.com) :sparkling\_heart:
@@ -108,7 +108,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 * [gwt-fusion-ui](https://github.com/gwt-fusion/gwt-fusion-ui) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-08-01 - GWT UI components with Tailwind DNA :sparkling\_heart:
 * [gwtbootstrap5](https://github.com/themarioga/gwtbootstrap5) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-05-11 - UI framework based on latest
   [bootstrap 5](https://getbootstrap.com) :sparkling\_heart:
-* [sayaya ui](https://github.com/sayaya1090/sayaya-ui) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-02-15 - UI framework based on [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,243 | 🐛 185 | 🌐 SCSS | 📅 2026-09-15 :sparkling\_heart:
+* [sayaya ui](https://github.com/sayaya1090/sayaya-ui) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-02-15 - UI framework based on [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,244 | 🐛 185 | 🌐 SCSS | 📅 2026-09-15 :sparkling\_heart:
 * [react4j](https://github.com/react4j/react4j.github.io) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-09-11 - UI framework based on
   [react](https://reactjs.org) :sparkling\_heart:
 * [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and
@@ -142,7 +142,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 * [resty-gwt](https://github.com/resty-gwt/resty-gwt) ⭐ 294 | 🐛 90 | 🌐 Java | 📅 2023-01-02 - REST framework :sparkling\_heart:
 * [requestor](https://github.com/reinert/requestor) ⭐ 62 | 🐛 8 | 🌐 Java | 📅 2024-05-03 - HTTP Event-Driven Client API framework :sparkling\_heart:
 * [domino-rest](https://github.com/DominoKit/domino-rest) ⭐ 35 | 🐛 6 | 🌐 Java | 📅 2026-07-31 - REST framework :sparkling\_heart:
-* [resty-gwt](https://github.com/NewsRx/resty-gwt) ⭐ 1 | 🐛 1 | 🌐 Java | 📅 2026-09-15 REST framework based on jakarta classes :sparkling\_heart:
+* [resty-gwt](https://github.com/NewsRx/resty-gwt) ⭐ 1 | 🐛 1 | 🌐 Java | 📅 2026-09-16 REST framework based on jakarta classes :sparkling\_heart:
 
 ## Jackson Library
 
@@ -171,7 +171,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 ## Maps
 
 * [gwt-maps](https://github.com/branflake2267/GWT-Maps-V3-Api) ⭐ 145 | 🐛 54 | 🌐 Java | 📅 2020-10-13 - Maps library based on [google maps](https://developers.google.com/maps/documentation)
-* [gwt-ol](https://github.com/TDesjardins/gwt-ol) ⭐ 75 | 🐛 5 | 🌐 Java | 📅 2026-07-06 - Maps library based on [openlayers](https://openlayers.org) :sparkling\_heart:
+* [gwt-ol](https://github.com/TDesjardins/gwt-ol) ⭐ 75 | 🐛 5 | 🌐 Java | 📅 2026-09-16 - Maps library based on [openlayers](https://openlayers.org) :sparkling\_heart:
 
 ## Diagrams
 
@@ -196,8 +196,8 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## 3D Library
 
-* [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 115,567 | 🐛 383 | 🌐 JavaScript | 📅 2026-09-15
-* [three4g](https://github.com/treblereel/three4g) ⭐ 25 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-11 - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 115,567 | 🐛 383 | 🌐 JavaScript | 📅 2026-09-15 :sparkling\_heart:
+* [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 115,595 | 🐛 391 | 🌐 JavaScript | 📅 2026-09-17
+* [three4g](https://github.com/treblereel/three4g) ⭐ 25 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-11 - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 115,595 | 🐛 391 | 🌐 JavaScript | 📅 2026-09-17 :sparkling\_heart:
 
 ## Math Library
 
@@ -216,7 +216,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## File Saver
 
-* [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2020-01-19 - Library for saving files based on [filesaver-js](https://github.com/eligrey/FileSaver.js) ⭐ 21,980 | 🐛 214 | 🌐 JavaScript | 📅 2023-03-01
+* [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2020-01-19 - Library for saving files based on [filesaver-js](https://github.com/eligrey/FileSaver.js) ⭐ 21,981 | 🐛 214 | 🌐 JavaScript | 📅 2023-03-01
 
 ## Payment
 
@@ -299,4 +299,4 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
