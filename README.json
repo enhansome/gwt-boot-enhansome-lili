@@ -298,7 +298,7 @@
                 "id": 39412278,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T05:39:37Z",
+                "last_commit": "2026-09-30T07:31:34Z",
                 "open_issues": 0,
                 "owner": "hal",
                 "repo": "elemento",
@@ -1518,11 +1518,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T07:30:09Z",
-                "open_issues": 382,
+                "last_commit": "2026-09-30T02:46:33Z",
+                "open_issues": 377,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116049,
+                "stars": 116076,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2454,7 +2454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T07:35:12.182Z",
+    "last_updated": "2026-09-30T07:34:56.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
