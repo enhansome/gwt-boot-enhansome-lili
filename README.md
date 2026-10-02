@@ -65,7 +65,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## Starter
 
-* [gwt-maven-archetypes](https://github.com/tbroyer/gwt-maven-archetypes) ⭐ 166 | 🐛 1 | 🌐 Java | 📅 2026-09-26 - GWT Maven Archetype :sparkling\_heart:
+* [gwt-maven-archetypes](https://github.com/tbroyer/gwt-maven-archetypes) ⭐ 166 | 🐛 1 | 🌐 Java | 📅 2026-10-02 - GWT Maven Archetype :sparkling\_heart:
 * [gwt-boot-modules](https://github.com/gwtboot/gwt-boot-modules) ⭐ 54 | 🐛 4 | 📅 2026-03-22 - GWT Boot similar to Spring Boot makes your GWT
   application development easy to start with :sparkling\_heart:
 * [gwt-maven-springboot-archetype](https://github.com/NaluKit/gwt-maven-springboot-archetype) ⭐ 28 | 🐛 1 | 🌐 Java | 📅 2026-08-09 - GWT Maven
@@ -83,7 +83,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 * [elemental2](https://github.com/google/elemental2) ⭐ 170 | 🐛 19 | 🌐 Java | 📅 2026-09-27 - Web APIs based on
   [web api](https://developer.mozilla.org/en-US/docs/Web/API) :sparkling\_heart:
-* [elemento](https://github.com/hal/elemento) ⭐ 99 | 🐛 2 | 🌐 Java | 📅 2026-10-01 - Web APIs based on
+* [elemento](https://github.com/hal/elemento) ⭐ 99 | 🐛 2 | 🌐 Java | 📅 2026-10-02 - Web APIs based on
   [elemental2](https://github.com/google/elemental2) ⭐ 170 | 🐛 19 | 🌐 Java | 📅 2026-09-27 :sparkling\_heart:
 * [akasha](https://github.com/akasha/akasha) ⭐ 41 | 🐛 21 | 🌐 Java | 📅 2026-07-30 - Web APIs based on WebTack [akasha-webtack](https://github.com/akasha/akasha/tree/master/webtack) ⭐ 41 | 🐛 21 | 🌐 Java | 📅 2026-07-30 :sparkling\_heart:
 
@@ -94,21 +94,21 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 * [webfx](https://github.com/webfx-project/webfx) ⭐ 403 | 🐛 3 | 🌐 Java | 📅 2026-09-17 - UI framework based on JavaFX :sparkling\_heart:
 * [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) ⚠️ Archived - UI framework based on [bootstrap](https://getbootstrap.com)
 * [errai](https://github.com/errai/errai) ⭐ 284 | 🐛 15 | 🌐 Java | 📅 2026-09-29 - UI framework based on JavaEE :sparkling\_heart:
-* [domino-ui](https://github.com/DominoKit/domino-ui) ⭐ 239 | 🐛 21 | 🌐 Java | 📅 2026-09-24 - UI framework based on
+* [domino-ui](https://github.com/DominoKit/domino-ui) ⭐ 239 | 🐛 35 | 🌐 Java | 📅 2026-10-01 - UI framework based on
   [material design](https://material.io/design) :sparkling\_heart:
 * [vue-gwt](https://github.com/VueGWT/vue-gwt) ⭐ 212 | 🐛 44 | 🌐 Java | 📅 2023-01-07 - UI framework based on [vuejs](https://vuejs.org) :sparkling\_heart:
 * [gwt-react](https://github.com/GWTReact/gwt-react) ⭐ 95 | 🐛 4 | 🌐 Java | 📅 2018-05-02 - UI framework based on [react](https://reactjs.org)
 * [angular2-gwt](https://github.com/ltearno/angular2-gwt) ⭐ 61 | 🐛 5 | 🌐 Java | 📅 2017-09-27 - UI framework based on [angular](https://angular.io)
-* [patternfly-java](https://github.com/patternfly-java/patternfly-java) ⭐ 35 | 🐛 39 | 🌐 Java | 📅 2026-09-30 - UI framework based on
+* [patternfly-java](https://github.com/patternfly-java/patternfly-java) ⭐ 35 | 🐛 38 | 🌐 Java | 📅 2026-10-01 - UI framework based on
   [patternfly](https://www.patternfly.org) :sparkling\_heart:
 * [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) ⭐ 10 | 🐛 0 | 🌐 Java | 📅 2022-03-31 - UI framework based on
   [bootstrap](https://getbootstrap.com) :sparkling\_heart:
 * [gwt-theo](https://github.com/ArcBees/gwt-theo) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2015-08-11 - UI framework based on Salesforce [theo](https://github.com/salesforce-ux/theo) ⚠️ Archived
 * [html-ui-binder](https://github.com/RaHery/html-ui-binder) ⭐ 3 | 🐛 8 | 🌐 Java | 📅 2016-08-17 - UI framework for UI Binder but with HTML
 * [gwt-fusion-ui](https://github.com/gwt-fusion/gwt-fusion-ui) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-08-01 - GWT UI components with Tailwind DNA :sparkling\_heart:
-* [gwtbootstrap5](https://github.com/themarioga/gwtbootstrap5) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-09-21 - UI framework based on latest
+* [gwtbootstrap5](https://github.com/themarioga/gwtbootstrap5) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-10-01 - UI framework based on latest
   [bootstrap 5](https://getbootstrap.com) :sparkling\_heart:
-* [sayaya ui](https://github.com/sayaya1090/sayaya-ui) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-02-15 - UI framework based on [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,300 | 🐛 183 | 🌐 SCSS | 📅 2026-09-30 :sparkling\_heart:
+* [sayaya ui](https://github.com/sayaya1090/sayaya-ui) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-02-15 - UI framework based on [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,307 | 🐛 183 | 🌐 SCSS | 📅 2026-09-30 :sparkling\_heart:
 * [react4j](https://github.com/react4j/react4j.github.io) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-09-22 - UI framework based on
   [react](https://reactjs.org) :sparkling\_heart:
 * [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and
@@ -196,8 +196,8 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## 3D Library
 
-* [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 116,108 | 🐛 383 | 🌐 JavaScript | 📅 2026-09-30
-* [three4g](https://github.com/treblereel/three4g) ⭐ 25 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-11 - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 116,108 | 🐛 383 | 🌐 JavaScript | 📅 2026-09-30 :sparkling\_heart:
+* [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 116,150 | 🐛 383 | 🌐 JavaScript | 📅 2026-10-02
+* [three4g](https://github.com/treblereel/three4g) ⭐ 25 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-11 - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 116,150 | 🐛 383 | 🌐 JavaScript | 📅 2026-10-02 :sparkling\_heart:
 
 ## Math Library
 
@@ -216,7 +216,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## File Saver
 
-* [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2020-01-19 - Library for saving files based on [filesaver-js](https://github.com/eligrey/FileSaver.js) ⭐ 21,975 | 🐛 214 | 🌐 JavaScript | 📅 2023-03-01
+* [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2020-01-19 - Library for saving files based on [filesaver-js](https://github.com/eligrey/FileSaver.js) ⭐ 21,974 | 🐛 214 | 🌐 JavaScript | 📅 2023-03-01
 
 ## Payment
 
@@ -244,7 +244,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## Promise and Future Library
 
-* [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) ⭐ 24 | 🐛 1 | 🌐 Java | 📅 2021-12-10 - Completable future library
+* [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) ⭐ 26 | 🐛 1 | 🌐 Java | 📅 2021-12-10 - Completable future library
 * [gdeferred](https://github.com/reinert/gdeferred) ⭐ 8 | 🐛 2 | 🌐 Java | 📅 2020-10-13 - Promise library
 * [gwt-promises](https://github.com/jimmyfm/gwt-promises) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2017-07-11 - Promise library based on [promise.js](https://www.promisejs.org)
 
@@ -299,4 +299,4 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
