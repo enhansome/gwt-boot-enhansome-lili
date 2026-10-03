@@ -1522,7 +1522,7 @@
                 "open_issues": 383,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116179,
+                "stars": 116182,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2454,7 +2454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:15:35.879Z",
+    "last_updated": "2026-10-03T07:10:26.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
