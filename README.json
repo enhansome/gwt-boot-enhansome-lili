@@ -671,11 +671,11 @@
               "repo_info": {
                 "archived": false,
                 "description": "GWTBootstrap5",
-                "homepage": null,
+                "homepage": "https://gwtbootstrap5.github.io/",
                 "id": 883605844,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T22:53:36Z",
+                "last_commit": "2026-10-06T10:07:41Z",
                 "open_issues": 1,
                 "owner": "gwtbootstrap5",
                 "repo": "gwtbootstrap5",
@@ -1518,11 +1518,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T07:50:05Z",
-                "open_issues": 395,
+                "last_commit": "2026-10-06T11:03:43Z",
+                "open_issues": 389,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116271,
+                "stars": 116273,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2454,7 +2454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:13:48.101Z",
+    "last_updated": "2026-10-06T11:07:34.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",

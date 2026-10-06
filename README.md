@@ -106,7 +106,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 * [gwt-theo](https://github.com/ArcBees/gwt-theo) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2015-08-11 - UI framework based on Salesforce [theo](https://github.com/salesforce-ux/theo) ⚠️ Archived
 * [html-ui-binder](https://github.com/RaHery/html-ui-binder) ⭐ 3 | 🐛 8 | 🌐 Java | 📅 2016-08-17 - UI framework for UI Binder but with HTML
 * [gwt-fusion-ui](https://github.com/gwt-fusion/gwt-fusion-ui) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-08-01 - GWT UI components with Tailwind DNA :sparkling\_heart:
-* [gwtbootstrap5](https://github.com/themarioga/gwtbootstrap5) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-10-05 - UI framework based on latest
+* [gwtbootstrap5](https://github.com/themarioga/gwtbootstrap5) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-10-06 - UI framework based on latest
   [bootstrap 5](https://getbootstrap.com) :sparkling\_heart:
 * [sayaya ui](https://github.com/sayaya1090/sayaya-ui) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-02-15 - UI framework based on [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,315 | 🐛 179 | 🌐 SCSS | 📅 2026-10-05 :sparkling\_heart:
 * [react4j](https://github.com/react4j/react4j.github.io) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-09-22 - UI framework based on
@@ -196,8 +196,8 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## 3D Library
 
-* [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 116,271 | 🐛 395 | 🌐 JavaScript | 📅 2026-10-06
-* [three4g](https://github.com/treblereel/three4g) ⭐ 25 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-11 - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 116,271 | 🐛 395 | 🌐 JavaScript | 📅 2026-10-06 :sparkling\_heart:
+* [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 116,273 | 🐛 389 | 🌐 JavaScript | 📅 2026-10-06
+* [three4g](https://github.com/treblereel/three4g) ⭐ 25 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-11 - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 116,273 | 🐛 389 | 🌐 JavaScript | 📅 2026-10-06 :sparkling\_heart:
 
 ## Math Library
 
