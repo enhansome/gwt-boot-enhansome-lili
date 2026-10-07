@@ -298,8 +298,8 @@
                 "id": 39412278,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T06:00:00Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-07T04:02:08Z",
+                "open_issues": 2,
                 "owner": "hal",
                 "repo": "elemento",
                 "stars": 99,
@@ -325,7 +325,7 @@
               "description": "Web APIs based on WebTack akasha-webtack :sparkling_heart:",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Typed Browser APIs",
                 "homepage": null,
                 "id": 245569208,
@@ -335,7 +335,7 @@
                 "open_issues": 21,
                 "owner": "akasha",
                 "repo": "akasha",
-                "stars": 41,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -393,7 +393,7 @@
                 "open_issues": 3,
                 "owner": "webfx-project",
                 "repo": "webfx",
-                "stars": 403,
+                "stars": 404,
                 "topics": [
                   "cross-platform",
                   "gwt",
@@ -441,7 +441,7 @@
                 "id": 899555,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T06:08:13Z",
+                "last_commit": "2026-10-06T17:39:44Z",
                 "open_issues": 15,
                 "owner": "errai",
                 "repo": "errai",
@@ -563,8 +563,8 @@
                 "id": 223204805,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T06:05:19Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-07T03:18:29Z",
+                "open_issues": 39,
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
                 "stars": 35,
@@ -675,8 +675,8 @@
                 "id": 883605844,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:07:41Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-06T23:39:39Z",
+                "open_issues": 0,
                 "owner": "gwtbootstrap5",
                 "repo": "gwtbootstrap5",
                 "stars": 2,
@@ -1518,11 +1518,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T11:03:43Z",
-                "open_issues": 389,
+                "last_commit": "2026-10-07T07:46:28Z",
+                "open_issues": 403,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116273,
+                "stars": 116302,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2408,7 +2408,7 @@
               "description": "Generator to generate JsInterop files from Web APIs specification WebIDL :sparkling_heart:",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Typed Browser APIs",
                 "homepage": null,
                 "id": 245569208,
@@ -2418,7 +2418,7 @@
                 "open_issues": 21,
                 "owner": "akasha",
                 "repo": "akasha",
-                "stars": 41,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -2454,7 +2454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:07:34.684Z",
+    "last_updated": "2026-10-07T07:47:54.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
