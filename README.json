@@ -298,8 +298,8 @@
                 "id": 39412278,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T03:32:31Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-17T02:47:01Z",
+                "open_issues": 3,
                 "owner": "hal",
                 "repo": "elemento",
                 "stars": 99,
@@ -393,7 +393,7 @@
                 "open_issues": 3,
                 "owner": "webfx-project",
                 "repo": "webfx",
-                "stars": 406,
+                "stars": 407,
                 "topics": [
                   "cross-platform",
                   "gwt",
@@ -463,10 +463,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T15:36:44Z",
-                "open_issues": 20,
+                "open_issues": 22,
                 "owner": "DominoKit",
                 "repo": "domino-ui",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "builder",
                   "elemental2",
@@ -563,8 +563,8 @@
                 "id": 223204805,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T03:51:12Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-17T02:07:58Z",
+                "open_issues": 41,
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
                 "stars": 35,
@@ -808,8 +808,8 @@
                 "id": 110496114,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T06:22:12Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-16T12:36:17Z",
+                "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "router-fu",
                 "stars": 2,
@@ -879,7 +879,7 @@
               "description": "SymbolMap Support Library :sparkling_heart:",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "GWT SymbolMap Assertions Library.",
                 "homepage": null,
                 "id": 125270747,
@@ -889,7 +889,7 @@
                 "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "gwt-symbolmap",
-                "stars": 1,
+                "stars": 0,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -900,7 +900,7 @@
               "description": "Assert unexpected symbols are eliminated from output :sparkling_heart:",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Ensure dead code is eliminated",
                 "homepage": null,
                 "id": 214346834,
@@ -910,7 +910,7 @@
                 "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "grim",
-                "stars": 1,
+                "stars": 0,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -1518,11 +1518,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T00:36:50Z",
+                "last_commit": "2026-10-17T02:08:38Z",
                 "open_issues": 392,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116476,
+                "stars": 116520,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2331,7 +2331,7 @@
               "description": "A J2CL compatible javax.annotation library :sparkling_heart:",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A minimal, J2CL compatible javax.annotation library",
                 "homepage": null,
                 "id": 137611903,
@@ -2358,7 +2358,7 @@
                 "id": 104299782,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T12:21:44Z",
+                "last_commit": "2026-10-16T11:59:45Z",
                 "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "braincheck",
@@ -2454,7 +2454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T06:29:44.103Z",
+    "last_updated": "2026-10-17T06:18:36.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
