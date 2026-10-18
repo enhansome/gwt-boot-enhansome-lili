@@ -89,7 +89,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## UI Framework
 
-* [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) ⭐ 420 | 🐛 108 | 🌐 Java | 📅 2026-03-20 - UI framework based on
+* [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) ⭐ 419 | 🐛 108 | 🌐 Java | 📅 2026-03-20 - UI framework based on
   [material design](https://material.io/design) :sparkling\_heart:
 * [webfx](https://github.com/webfx-project/webfx) ⭐ 407 | 🐛 3 | 🌐 Java | 📅 2026-09-17 - UI framework based on JavaFX :sparkling\_heart:
 * [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) ⚠️ Archived - UI framework based on [bootstrap](https://getbootstrap.com)
@@ -108,7 +108,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 * [gwt-fusion-ui](https://github.com/gwt-fusion/gwt-fusion-ui) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-08-01 - GWT UI components with Tailwind DNA :sparkling\_heart:
 * [gwtbootstrap5](https://github.com/themarioga/gwtbootstrap5) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-10-08 - UI framework based on latest
   [bootstrap 5](https://getbootstrap.com) :sparkling\_heart:
-* [sayaya ui](https://github.com/sayaya1090/sayaya-ui) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-02-15 - UI framework based on [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,345 | 🐛 190 | 🌐 SCSS | 📅 2026-10-16 :sparkling\_heart:
+* [sayaya ui](https://github.com/sayaya1090/sayaya-ui) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-10-18 - UI framework based on [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,346 | 🐛 190 | 🌐 SCSS | 📅 2026-10-16 :sparkling\_heart:
 * [react4j](https://github.com/react4j/react4j.github.io) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-09-22 - UI framework based on
   [react](https://reactjs.org) :sparkling\_heart:
 * [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and
@@ -188,7 +188,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## Game Engine
 
-* [jbox2d](https://github.com/jbox2d/jbox2d) ⭐ 1,149 | 🐛 25 | 🌐 Java | 📅 2024-09-19 - Game engine 2D based on [box2d](https://box2d.org)
+* [jbox2d](https://github.com/jbox2d/jbox2d) ⭐ 1,150 | 🐛 25 | 🌐 Java | 📅 2024-09-19 - Game engine 2D based on [box2d](https://box2d.org)
 
 ## Physics Engine
 
@@ -196,8 +196,8 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## 3D Library
 
-* [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 116,520 | 🐛 392 | 🌐 JavaScript | 📅 2026-10-17
-* [three4g](https://github.com/treblereel/three4g) ⭐ 25 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-11 - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 116,520 | 🐛 392 | 🌐 JavaScript | 📅 2026-10-17 :sparkling\_heart:
+* [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 116,559 | 🐛 395 | 🌐 JavaScript | 📅 2026-10-18
+* [three4g](https://github.com/treblereel/three4g) ⭐ 25 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-11 - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 116,559 | 🐛 395 | 🌐 JavaScript | 📅 2026-10-18 :sparkling\_heart:
 
 ## Math Library
 
@@ -252,7 +252,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 * [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) ⭐ 62 | 🐛 0 | 🌐 Java | 📅 2022-04-17 - Reactive library :sparkling\_heart:
 * [rxgwt](https://github.com/intendia-oss/rxgwt) ⭐ 35 | 🐛 0 | 🌐 Java | 📅 2022-04-17 - Reactive library :sparkling\_heart:
-* [sayaya rx](https://github.com/sayaya1090/sayaya-rx) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-02-22 - RxJS binding library :sparkling\_heart:
+* [sayaya rx](https://github.com/sayaya1090/sayaya-rx) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-10-17 - RxJS binding library :sparkling\_heart:
 
 ## Caching Library
 
@@ -299,4 +299,4 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

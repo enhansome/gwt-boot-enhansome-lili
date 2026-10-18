@@ -363,7 +363,7 @@
                 "open_issues": 108,
                 "owner": "GwtMaterialDesign",
                 "repo": "gwt-material",
-                "stars": 420,
+                "stars": 419,
                 "topics": [
                   "demo",
                   "google-material",
@@ -696,7 +696,7 @@
                 "id": 1092584074,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-02-15T00:03:47Z",
+                "last_commit": "2026-10-18T04:22:20Z",
                 "open_issues": 0,
                 "owner": "sayaya1090",
                 "repo": "sayaya-ui",
@@ -1460,7 +1460,7 @@
                 "open_issues": 25,
                 "owner": "jbox2d",
                 "repo": "jbox2d",
-                "stars": 1149,
+                "stars": 1150,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -1518,11 +1518,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T02:08:38Z",
-                "open_issues": 392,
+                "last_commit": "2026-10-18T04:59:48Z",
+                "open_issues": 395,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116520,
+                "stars": 116559,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2068,7 +2068,7 @@
                 "id": 1092042402,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-02-22T18:18:27Z",
+                "last_commit": "2026-10-17T07:33:41Z",
                 "open_issues": 0,
                 "owner": "sayaya1090",
                 "repo": "sayaya-rx",
@@ -2454,7 +2454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:18:36.010Z",
+    "last_updated": "2026-10-18T06:41:50.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
