@@ -463,7 +463,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T15:36:44Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "DominoKit",
                 "repo": "domino-ui",
                 "stars": 241,
@@ -696,7 +696,7 @@
                 "id": 1092584074,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-10-25T02:31:10Z",
+                "last_commit": "2026-10-25T12:21:01Z",
                 "open_issues": 0,
                 "owner": "sayaya1090",
                 "repo": "sayaya-ui",
@@ -808,7 +808,7 @@
                 "id": 110496114,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T06:31:31Z",
+                "last_commit": "2026-10-26T02:51:46Z",
                 "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "router-fu",
@@ -1518,11 +1518,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T22:47:43Z",
-                "open_issues": 392,
+                "last_commit": "2026-10-25T22:44:37Z",
+                "open_issues": 395,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116888,
+                "stars": 116944,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -1971,7 +1971,7 @@
                 "open_issues": 2,
                 "owner": "reinert",
                 "repo": "gdeferred",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -2358,7 +2358,7 @@
                 "id": 104299782,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T05:29:13Z",
+                "last_commit": "2026-10-26T01:45:06Z",
                 "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "braincheck",
@@ -2454,7 +2454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:02:13.636Z",
+    "last_updated": "2026-10-26T07:08:58.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
