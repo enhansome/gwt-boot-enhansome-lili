@@ -74,7 +74,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## Dependency Injection
 
-* [crysknife](https://github.com/crysknife-io/crysknife) ⭐ 37 | 🐛 13 | 🌐 Java | 📅 2026-10-13 :sparkling\_heart:
+* [crysknife](https://github.com/crysknife-io/crysknife) ⭐ 37 | 🐛 14 | 🌐 Java | 📅 2026-11-02 :sparkling\_heart:
 * [google-gin](https://github.com/gwtplus/google-gin) ⭐ 15 | 🐛 8 | 🌐 Java | 📅 2025-01-20
 * [dagger2](https://dagger.dev) :sparkling\_heart:
 * [sting](https://sting-ioc.github.io) - A fast, easy to use, compile-time dependency injection toolkit :sparkling\_heart:
@@ -93,7 +93,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
   [material design](https://material.io/design) :sparkling\_heart:
 * [webfx](https://github.com/webfx-project/webfx) ⭐ 410 | 🐛 3 | 🌐 Java | 📅 2026-09-17 - UI framework based on JavaFX :sparkling\_heart:
 * [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) ⚠️ Archived - UI framework based on [bootstrap](https://getbootstrap.com)
-* [errai](https://github.com/errai/errai) ⭐ 284 | 🐛 15 | 🌐 Java | 📅 2026-10-12 - UI framework based on JavaEE :sparkling\_heart:
+* [errai](https://github.com/errai/errai) ⭐ 284 | 🐛 16 | 🌐 Java | 📅 2026-11-02 - UI framework based on JavaEE :sparkling\_heart:
 * [domino-ui](https://github.com/DominoKit/domino-ui) ⭐ 242 | 🐛 24 | 🌐 Java | 📅 2026-10-01 - UI framework based on
   [material design](https://material.io/design) :sparkling\_heart:
 * [vue-gwt](https://github.com/VueGWT/vue-gwt) ⭐ 210 | 🐛 44 | 🌐 Java | 📅 2023-01-07 - UI framework based on [vuejs](https://vuejs.org) :sparkling\_heart:
@@ -108,7 +108,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 * [gwt-fusion-ui](https://github.com/gwt-fusion/gwt-fusion-ui) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-08-01 - GWT UI components with Tailwind DNA :sparkling\_heart:
 * [gwtbootstrap5](https://github.com/themarioga/gwtbootstrap5) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-10-08 - UI framework based on latest
   [bootstrap 5](https://getbootstrap.com) :sparkling\_heart:
-* [sayaya ui](https://github.com/sayaya1090/sayaya-ui) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-10-25 - UI framework based on [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,400 | 🐛 189 | 🌐 SCSS | 📅 2026-10-30 :sparkling\_heart:
+* [sayaya ui](https://github.com/sayaya1090/sayaya-ui) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-10-25 - UI framework based on [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,408 | 🐛 189 | 🌐 SCSS | 📅 2026-11-03 :sparkling\_heart:
 * [react4j](https://github.com/react4j/react4j.github.io) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-28 - UI framework based on
   [react](https://reactjs.org) :sparkling\_heart:
 * [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and
@@ -147,7 +147,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 ## Jackson Library
 
 * [gwt-jackson](https://github.com/nmorel/gwt-jackson) ⭐ 118 | 🐛 35 | 🌐 Java | 📅 2024-03-15 - Jackson library
-* [domino-jackson](https://github.com/DominoKit/domino-jackson) ⭐ 60 | 🐛 26 | 🌐 Java | 📅 2026-07-27 - Jackson library :sparkling\_heart:
+* [domino-jackson](https://github.com/DominoKit/domino-jackson) ⭐ 60 | 🐛 24 | 🌐 Java | 📅 2026-11-02 - Jackson library :sparkling\_heart:
 * [jackson-xml](https://github.com/treblereel/jackson-xml) ⭐ 4 | 🐛 3 | 🌐 Java | 📅 2026-09-06 - Jackson library :sparkling\_heart:
 
 ## Validator
@@ -188,7 +188,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## Game Engine
 
-* [jbox2d](https://github.com/jbox2d/jbox2d) ⭐ 1,152 | 🐛 25 | 🌐 Java | 📅 2024-09-19 - Game engine 2D based on [box2d](https://box2d.org)
+* [jbox2d](https://github.com/jbox2d/jbox2d) ⭐ 1,153 | 🐛 25 | 🌐 Java | 📅 2024-09-19 - Game engine 2D based on [box2d](https://box2d.org)
 
 ## Physics Engine
 
@@ -196,8 +196,8 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## 3D Library
 
-* [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 117,402 | 🐛 397 | 🌐 JavaScript | 📅 2026-11-02
-* [three4g](https://github.com/treblereel/three4g) ⭐ 25 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-11 - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 117,402 | 🐛 397 | 🌐 JavaScript | 📅 2026-11-02 :sparkling\_heart:
+* [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 117,464 | 🐛 388 | 🌐 JavaScript | 📅 2026-11-03
+* [three4g](https://github.com/treblereel/three4g) ⭐ 25 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-11 - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 117,464 | 🐛 388 | 🌐 JavaScript | 📅 2026-11-03 :sparkling\_heart:
 
 ## Math Library
 
@@ -207,7 +207,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 ## QR Scanner
 
 * [gwt-qr-code](https://github.com/realityforge/gwt-qr-code) ⚠️ Archived - GWT QR Code Generation
-* [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-01-17 - QR scanner based on [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) ⭐ 2,900 | 🐛 119 | 🌐 TypeScript | 📅 2024-03-30
+* [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-01-17 - QR scanner based on [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) ⭐ 2,901 | 🐛 119 | 🌐 TypeScript | 📅 2024-03-30
 
 ## ZIP Files and LZMA Compression
 
@@ -291,7 +291,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## JsInterop Generator
 
-* [jsinterop-generator](https://github.com/google/jsinterop-generator) ⭐ 85 | 🐛 18 | 🌐 Java | 📅 2026-10-29 - Generator to generate JsInterop files from
+* [jsinterop-generator](https://github.com/google/jsinterop-generator) ⭐ 85 | 🐛 18 | 🌐 Java | 📅 2026-11-02 - Generator to generate JsInterop files from
   Closure Extern files :sparkling\_heart:
 * [akasha-webtack](https://github.com/akasha/akasha/tree/master/webtack) ⚠️ Archived - Generator to generate JsInterop files from
   Web APIs specification WebIDL :sparkling\_heart:
@@ -299,4 +299,4 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
