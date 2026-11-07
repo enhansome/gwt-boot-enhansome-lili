@@ -298,8 +298,8 @@
                 "id": 39412278,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T04:53:10Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-07T04:24:14Z",
+                "open_issues": 1,
                 "owner": "hal",
                 "repo": "elemento",
                 "stars": 99,
@@ -393,7 +393,7 @@
                 "open_issues": 3,
                 "owner": "webfx-project",
                 "repo": "webfx",
-                "stars": 410,
+                "stars": 411,
                 "topics": [
                   "cross-platform",
                   "gwt",
@@ -563,8 +563,8 @@
                 "id": 223204805,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T04:11:18Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-07T03:44:19Z",
+                "open_issues": 39,
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
                 "stars": 35,
@@ -1460,7 +1460,7 @@
                 "open_issues": 25,
                 "owner": "jbox2d",
                 "repo": "jbox2d",
-                "stars": 1153,
+                "stars": 1152,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -1518,11 +1518,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T08:02:47Z",
-                "open_issues": 407,
+                "last_commit": "2026-11-06T22:54:43Z",
+                "open_issues": 400,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 117670,
+                "stars": 117751,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -1790,7 +1790,7 @@
                 "id": 102397588,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2025-06-27T11:11:00Z",
+                "last_commit": "2026-11-06T11:48:16Z",
                 "open_issues": 5,
                 "owner": "NaluKit",
                 "repo": "iban4g",
@@ -2454,7 +2454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T08:38:27.790Z",
+    "last_updated": "2026-11-07T07:53:25.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
