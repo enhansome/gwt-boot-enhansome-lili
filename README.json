@@ -563,8 +563,8 @@
                 "id": 223204805,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T03:21:02Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-09T06:09:06Z",
+                "open_issues": 37,
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
                 "stars": 35,
@@ -683,6 +683,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
+            },
+            {
+              "node_type": "item",
+              "title": "bootstrap-widgets",
+              "description": "another UI framework based on latest bootstrap 5 :sparkling_heart: with TeaVM support,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Bootstrap 3 and 5 widgets for Java in the browser, for GWT and TeaVM.",
+                "homepage": null,
+                "id": 1367713224,
+                "language": "Java",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-05T22:34:06Z",
+                "open_issues": 0,
+                "owner": "instanto-io",
+                "repo": "bootstrap-widgets",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-09T08:46:08.688Z"
             },
             {
               "node_type": "item",
@@ -1518,11 +1539,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T09:16:07Z",
-                "open_issues": 406,
+                "last_commit": "2026-11-08T18:42:26Z",
+                "open_issues": 412,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 117847,
+                "stars": 117915,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2454,7 +2475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T08:10:00.661Z",
+    "last_updated": "2026-11-09T08:46:08.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
@@ -2462,8 +2483,8 @@
       "id": 300066130,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-05-20T06:10:12Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-08T08:41:07Z",
+      "open_issues": 0,
       "owner": "gwtboot",
       "repo": "gwt-boot-awesome-lili",
       "stars": 51,
@@ -2478,7 +2499,7 @@
         "jsinterop"
       ]
     },
-    "original_repository_sha": "4008ee3f22b96b47011d9a1576d3d3eecfb69125",
+    "original_repository_sha": "041a508c69039d082a2a1d77a1bea936f3637c56",
     "enhanced_repository": "enhansome/gwt-boot-enhansome-lili",
     "enhanced_repository_description": null,
     "title": "GWT Awesome Library List (Gwit a LiLi) with stars"
