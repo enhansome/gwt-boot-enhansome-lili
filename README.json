@@ -96,7 +96,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T00:23:46Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "tbroyer",
                 "repo": "gwt-maven-archetypes",
                 "stars": 166,
@@ -563,7 +563,7 @@
                 "id": 223204805,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T03:49:13Z",
+                "last_commit": "2026-11-17T05:42:31Z",
                 "open_issues": 37,
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
@@ -1539,11 +1539,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T08:32:03Z",
-                "open_issues": 406,
+                "last_commit": "2026-11-17T09:44:57Z",
+                "open_issues": 398,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 118592,
+                "stars": 118719,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2475,7 +2475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:42:02.289Z",
+    "last_updated": "2026-11-17T09:48:51.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
