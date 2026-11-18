@@ -298,7 +298,7 @@
                 "id": 39412278,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T08:43:19Z",
+                "last_commit": "2026-11-18T07:10:34Z",
                 "open_issues": 0,
                 "owner": "hal",
                 "repo": "elemento",
@@ -462,8 +462,8 @@
                 "id": 125716012,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T15:36:44Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-18T09:00:33Z",
+                "open_issues": 19,
                 "owner": "DominoKit",
                 "repo": "domino-ui",
                 "stars": 242,
@@ -563,7 +563,7 @@
                 "id": 223204805,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T05:42:31Z",
+                "last_commit": "2026-11-18T07:26:40Z",
                 "open_issues": 37,
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
@@ -1139,7 +1139,7 @@
                 "open_issues": 0,
                 "owner": "NaluKit",
                 "repo": "malio",
-                "stars": 4,
+                "stars": 8,
                 "topics": [
                   "gwt",
                   "j2cl",
@@ -1539,11 +1539,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T09:44:57Z",
-                "open_issues": 398,
+                "last_commit": "2026-11-18T09:07:50Z",
+                "open_issues": 408,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 118719,
+                "stars": 118797,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -1612,7 +1612,7 @@
                 "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "vecmath",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -2475,7 +2475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:48:51.604Z",
+    "last_updated": "2026-11-18T09:20:45.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
