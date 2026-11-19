@@ -563,8 +563,8 @@
                 "id": 223204805,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T07:26:40Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-19T05:00:52Z",
+                "open_issues": 39,
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
                 "stars": 35,
@@ -717,7 +717,7 @@
                 "id": 1092584074,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-10-25T12:21:01Z",
+                "last_commit": "2026-11-18T20:41:57Z",
                 "open_issues": 0,
                 "owner": "sayaya1090",
                 "repo": "sayaya-ui",
@@ -1539,11 +1539,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T09:07:50Z",
-                "open_issues": 408,
+                "last_commit": "2026-11-19T09:32:49Z",
+                "open_issues": 405,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 118797,
+                "stars": 118896,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -1612,7 +1612,7 @@
                 "open_issues": 0,
                 "owner": "realityforge",
                 "repo": "vecmath",
-                "stars": 8,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -2089,7 +2089,7 @@
                 "id": 1092042402,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-10-24T07:52:43Z",
+                "last_commit": "2026-11-18T20:57:01Z",
                 "open_issues": 0,
                 "owner": "sayaya1090",
                 "repo": "sayaya-rx",
@@ -2475,7 +2475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T09:20:45.680Z",
+    "last_updated": "2026-11-19T09:35:11.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
