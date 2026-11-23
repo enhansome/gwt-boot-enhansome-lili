@@ -99,7 +99,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 * [vue-gwt](https://github.com/VueGWT/vue-gwt) ⭐ 210 | 🐛 44 | 🌐 Java | 📅 2023-01-07 - UI framework based on [vuejs](https://vuejs.org) :sparkling\_heart:
 * [gwt-react](https://github.com/GWTReact/gwt-react) ⭐ 95 | 🐛 4 | 🌐 Java | 📅 2018-05-02 - UI framework based on [react](https://reactjs.org)
 * [angular2-gwt](https://github.com/ltearno/angular2-gwt) ⭐ 61 | 🐛 5 | 🌐 Java | 📅 2017-09-27 - UI framework based on [angular](https://angular.io)
-* [patternfly-java](https://github.com/patternfly-java/patternfly-java) ⭐ 35 | 🐛 38 | 🌐 Java | 📅 2026-11-22 - UI framework based on
+* [patternfly-java](https://github.com/patternfly-java/patternfly-java) ⭐ 35 | 🐛 37 | 🌐 Java | 📅 2026-11-23 - UI framework based on
   [patternfly](https://www.patternfly.org) :sparkling\_heart:
 * [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) ⭐ 10 | 🐛 0 | 🌐 Java | 📅 2022-03-31 - UI framework based on
   [bootstrap](https://getbootstrap.com) :sparkling\_heart:
@@ -110,7 +110,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
   [bootstrap 5](https://getbootstrap.com) :sparkling\_heart:
 * [bootstrap-widgets](https://github.com/instanto-io/bootstrap-widgets) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-11-21 - another UI framework based on latest
   [bootstrap 5](https://getbootstrap.com) :sparkling\_heart: with TeaVM support,
-* [sayaya ui](https://github.com/sayaya1090/sayaya-ui) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-11-18 - UI framework based on [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,465 | 🐛 196 | 🌐 SCSS | 📅 2026-11-20 :sparkling\_heart:
+* [sayaya ui](https://github.com/sayaya1090/sayaya-ui) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-11-18 - UI framework based on [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,468 | 🐛 196 | 🌐 SCSS | 📅 2026-11-20 :sparkling\_heart:
 * [react4j](https://github.com/react4j/react4j.github.io) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-28 - UI framework based on
   [react](https://reactjs.org) :sparkling\_heart:
 * [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and
@@ -194,12 +194,12 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## Physics Engine
 
-* [gwt-matter](https://github.com/TDesjardins/gwt-matter) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-10-13 - 2D rigid body physics engine based on [matter-js](https://brm.io/matter-js/) :sparkling\_heart:
+* [gwt-matter](https://github.com/TDesjardins/gwt-matter) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2020-10-13 - 2D rigid body physics engine based on [matter-js](https://brm.io/matter-js/) :sparkling\_heart:
 
 ## 3D Library
 
-* [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 119,112 | 🐛 408 | 🌐 JavaScript | 📅 2026-11-21
-* [three4g](https://github.com/treblereel/three4g) ⭐ 25 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-11 - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 119,112 | 🐛 408 | 🌐 JavaScript | 📅 2026-11-21 :sparkling\_heart:
+* [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 119,199 | 🐛 407 | 🌐 JavaScript | 📅 2026-11-23
+* [three4g](https://github.com/treblereel/three4g) ⭐ 25 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-11 - 3D library based on [three.js](https://github.com/mrdoob/three.js) ⭐ 119,199 | 🐛 407 | 🌐 JavaScript | 📅 2026-11-23 :sparkling\_heart:
 
 ## Math Library
 
@@ -301,4 +301,4 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
