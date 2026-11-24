@@ -267,7 +267,7 @@
                 "id": 91626146,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T23:51:34Z",
+                "last_commit": "2026-11-23T15:25:30Z",
                 "open_issues": 18,
                 "owner": "google",
                 "repo": "elemental2",
@@ -298,7 +298,7 @@
                 "id": 39412278,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T07:10:34Z",
+                "last_commit": "2026-11-24T08:57:07Z",
                 "open_issues": 0,
                 "owner": "hal",
                 "repo": "elemento",
@@ -563,7 +563,7 @@
                 "id": 223204805,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T04:44:27Z",
+                "last_commit": "2026-11-24T07:54:01Z",
                 "open_issues": 37,
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
@@ -1481,7 +1481,7 @@
                 "open_issues": 25,
                 "owner": "jbox2d",
                 "repo": "jbox2d",
-                "stars": 1151,
+                "stars": 1152,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -1539,11 +1539,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-23T09:53:01Z",
-                "open_issues": 407,
+                "last_commit": "2026-11-24T10:11:37Z",
+                "open_issues": 411,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 119199,
+                "stars": 119271,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2407,7 +2407,7 @@
                 "id": 91136737,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T23:51:51Z",
+                "last_commit": "2026-11-23T17:57:01Z",
                 "open_issues": 18,
                 "owner": "google",
                 "repo": "jsinterop-generator",
@@ -2475,7 +2475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T09:54:37.061Z",
+    "last_updated": "2026-11-24T11:42:44.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
