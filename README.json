@@ -298,8 +298,8 @@
                 "id": 39412278,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-27T06:32:18Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-28T06:03:28Z",
+                "open_issues": 1,
                 "owner": "hal",
                 "repo": "elemento",
                 "stars": 99,
@@ -563,8 +563,8 @@
                 "id": 223204805,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-27T06:24:09Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-28T05:30:20Z",
+                "open_issues": 37,
                 "owner": "patternfly-java",
                 "repo": "patternfly-java",
                 "stars": 35,
@@ -1253,7 +1253,7 @@
                 "id": 24293015,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T09:49:12Z",
+                "last_commit": "2026-11-28T08:26:53Z",
                 "open_issues": 5,
                 "owner": "TDesjardins",
                 "repo": "gwt-ol",
@@ -1481,7 +1481,7 @@
                 "open_issues": 25,
                 "owner": "jbox2d",
                 "repo": "jbox2d",
-                "stars": 1152,
+                "stars": 1153,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:26:35.836Z"
@@ -1539,11 +1539,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-27T10:09:23Z",
+                "last_commit": "2026-11-28T09:26:35Z",
                 "open_issues": 400,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 119513,
+                "stars": 119595,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -2475,7 +2475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:12:44.196Z",
+    "last_updated": "2026-11-28T09:31:21.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi)",
